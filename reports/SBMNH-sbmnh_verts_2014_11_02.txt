@@ -1,0 +1,190 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 385
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 5
+	Country: United States ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 10
+	Date: 2014-10-11 ; Times: 2
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 2
+	Date: 2014-10-15 ; Times: 1
+	Date: 2014-10-16 ; Times: 1
+	Date: 2014-10-18 ; Times: 1
+	Date: 2014-10-19 ; Times: 6
+	Date: 2014-10-20 ; Times: 16
+	Date: 2014-10-21 ; Times: 4
+	Date: 2014-10-22 ; Times: 10
+	Date: 2014-10-23 ; Times: 1
+	Date: 2014-10-25 ; Times: 2
+	Date: 2014-10-26 ; Times: 1
+	Date: 2014-10-27 ; Times: 2
+	Date: 2014-10-28 ; Times: 3
+	Date: 2014-10-29 ; Times: 1
+	Date: 2014-10-30 ; Times: 1
+	Date: 2014-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "lafresnayi" ; Times: 1
+	Query: "Chordeiles minor austin texas" ; Times: 1
+	Query: "Ammoperdix griseogularis" ; Times: 3
+	Query: "machetornis rixosa tissue" ; Times: 1
+	Query: "tyrannus savana tissue" ; Times: 1
+	Query: "cavia porcellus" ; Times: 4
+	Query: "athene cunicularia tissue" ; Times: 4
+	Query: "vanellus chilensis tissue" ; Times: 1
+	Query: "Cyanocorax luxuosus luxuosus (tissue)" ; Times: 1
+	Query: "class:Chelonia" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "specificepithet:Corax genus:Corvus year >= 1700 year <= 1914 distance(location,geopoint(40.44694705960048,-106.5234375))<839064" ; Times: 1
+	Query: "genus:Orcinus" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "colaptes campestris tissue" ; Times: 2
+	Query: "sicalis flaveola tissue" ; Times: 1
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "SBMNH 1192" ; Times: 1
+	Query: "pionus" ; Times: 1
+	Query: "Numenius americanus parvus" ; Times: 1
+	Query: "sicalis luteola tissue" ; Times: 2
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus year >= 1700 year <= 1914" ; Times: 1
+	Query: "Semnornis" ; Times: 1
+	Query: "leptodeira septentrionalis" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 2
+	Query: "county:"Santa Barbara" specificepithet:torosa genus:Taricha" ; Times: 4
+	Query: "Ceratophrys calcarata" ; Times: 1
+	Query: "psaltria santa barbara" ; Times: 1
+	Query: "os 2534" ; Times: 1
+	Query: "Chordeiles minor aserriensis" ; Times: 1
+	Query: "crax rubra" ; Times: 3
+	Query: "odontophorus gujanensis" ; Times: 1
+	Query: "Calocitta formosa (tissue)" ; Times: 1
+	Query: "opisthocomidae" ; Times: 1
+	Query: "pelamis platura" ; Times: 1
+	Query: "nothoprocta" ; Times: 1
+	Query: "Taricha torosa county:"Santa Barbara"" ; Times: 4
+	Query: "Macaca mulatta mappable:1" ; Times: 1
+	Query: "mimus saturninus tissue" ; Times: 1
+	Query: "semnornis" ; Times: 1
+	Query: "elaenia chiriquensis tissue" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 166 download events in this period)
+Total number of records downloaded: 1250 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1132
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 1
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 3
+	Date: 2014-10-14 ; Times: 4
+	Date: 2014-10-16 ; Times: 3
+	Date: 2014-10-17 ; Times: 1
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-20 ; Times: 2
+	Date: 2014-10-21 ; Times: 2
+	Date: 2014-10-22 ; Times: 8
+	Date: 2014-10-23 ; Times: 1
+	Date: 2014-10-24 ; Times: 5
+	Date: 2014-10-25 ; Times: 5
+	Date: 2014-10-27 ; Times: 4
+	Date: 2014-10-28 ; Times: 1
+	Date: 2014-10-29 ; Times: 1
+	Date: 2014-10-30 ; Times: 2
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "nasua narica mappable:1" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:rufa genus:Aplodontia" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "Lemmiscus class:Mammalia" ; Times: 1
+	Query: "stateprovince:"Colorado" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 2
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "stateprovince:"Indiana" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "La Grulla" ; Times: 1
+	Query: "passer domesticus type:specimen" ; Times: 1
+	Query: "momotus" ; Times: 1
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "Didelphis Virginiana" ; Times: 1
+	Query: "Zacatecas Mammalia" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "passer montanus" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "Sardinops type:specimen" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Onychomys leucogaster mappable:1" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 797
+Total number of records retrieved from searches: 4640
+Number of download events that retrieved data from the resource: 635
+Total number of records downloaded: 68741
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 797
+Total number of records retrieved from searches: 4640
+Number of download events that retrieved data from the resource: 810
+Total number of records downloaded: 84335
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
