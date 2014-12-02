@@ -1,0 +1,96 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 147
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-03 ; Times: 8
+	Date: 2014-11-06 ; Times: 1
+	Date: 2014-11-07 ; Times: 4
+	Date: 2014-11-12 ; Times: 2
+	Date: 2014-11-13 ; Times: 6
+	Date: 2014-11-14 ; Times: 1
+	Date: 2014-11-19 ; Times: 4
+	Date: 2014-11-21 ; Times: 1
+	Date: 2014-11-23 ; Times: 4
+	Date: 2014-11-24 ; Times: 1
+	Date: 2014-11-25 ; Times: 5
+	Date: 2014-11-29 ; Times: 2
+	Date: 2014-11-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera musculus type:specimen" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "bangsia" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:bendirii genus:sorex year >= 1950 year <= 2014" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "leptotila rufaxilla" ; Times: 1
+	Query: "class:Reptilia catalognumber:1756" ; Times: 1
+	Query: "class:Reptilia catalognumber:1754" ; Times: 1
+	Query: "class:Reptilia catalognumber:1755" ; Times: 1
+	Query: "mephitis mephitis estor" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "phacochoerus" ; Times: 1
+	Query: "buteo jamaicensis alascensis type:specimen country:"United States"" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:bendirii genus:sorex" ; Times: 1
+	Query: "Phalacrocorax auritus stateprovince:"Minnesota"" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "owl feathers" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 1
+	Query: "hawk mountain" ; Times: 1
+	Query: "specificepithet:ingens genus:dipodomys year >= 1950 year <= 2014" ; Times: 1
+	Query: "class:Mammalia mesoplodon" ; Times: 7
+	Query: "clupea" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 2
+	Query: "Marmota flaviventris Oregon" ; Times: 1
+	Query: "Marmota flaviventris Oregon Jackson" ; Times: 1
+	Query: "mellivora" ; Times: 1
+	Query: "Lampropeltis getula californiae" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 839
+Total number of records retrieved from searches: 4787
+Number of download events that retrieved data from the resource: 635
+Total number of records downloaded: 68741
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 839
+Total number of records retrieved from searches: 4787
+Number of download events that retrieved data from the resource: 810
+Total number of records downloaded: 84335
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
