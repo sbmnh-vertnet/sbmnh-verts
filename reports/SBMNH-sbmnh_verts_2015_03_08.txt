@@ -1,0 +1,348 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 201
+Number of records retrieved in searches: 664
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 3
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Latvia ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 147
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 5
+	Date: 2015-02-02 ; Times: 10
+	Date: 2015-02-03 ; Times: 5
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 12
+	Date: 2015-02-06 ; Times: 10
+	Date: 2015-02-07 ; Times: 15
+	Date: 2015-02-08 ; Times: 4
+	Date: 2015-02-09 ; Times: 5
+	Date: 2015-02-10 ; Times: 16
+	Date: 2015-02-11 ; Times: 13
+	Date: 2015-02-12 ; Times: 8
+	Date: 2015-02-13 ; Times: 3
+	Date: 2015-02-14 ; Times: 6
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-17 ; Times: 7
+	Date: 2015-02-18 ; Times: 9
+	Date: 2015-02-19 ; Times: 12
+	Date: 2015-02-20 ; Times: 8
+	Date: 2015-02-21 ; Times: 6
+	Date: 2015-02-22 ; Times: 6
+	Date: 2015-02-24 ; Times: 8
+	Date: 2015-02-25 ; Times: 11
+	Date: 2015-02-26 ; Times: 12
+	Date: 2015-02-27 ; Times: 5
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "eumeces gilberti nevada" ; Times: 1
+	Query: "county:"Mono" genus:Crotalus" ; Times: 15
+	Query: "specificepithet:polionotus genus:peromyscus year >= 1990 year <= 2015" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 2
+	Query: "leptoptilos" ; Times: 1
+	Query: "Catreus wallichii type:specimen country:"India"" ; Times: 1
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 2
+	Query: "cissopis" ; Times: 1
+	Query: "type:specimen county:"Los Angeles" stateprovince:"California" (Leptotyphlops)" ; Times: 1
+	Query: "aves 3235 institutioncode:SBMNH AND (NOT OMNH)" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 1
+	Query: "fregata magnificens mexico type:specimen" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 2
+	Query: "zenaida montana class:aves" ; Times: 1
+	Query: "type:specimen county:"Los Angeles" stateprovince:"California" (Hypsiglena torquata)" ; Times: 1
+	Query: "Athene blewitti" ; Times: 2
+	Query: "corvus splendens type:specimen country:"India"" ; Times: 2
+	Query: "Tangara cyanicollis" ; Times: 1
+	Query: "Eumeces gilberti Nevada" ; Times: 5
+	Query: "pachyphantes (tissue)" ; Times: 1
+	Query: "chaimarrornis leucocephalus type:specimen country:"India"" ; Times: 1
+	Query: "specificepithet:corax genus:corvus class:aves year >= 1921 year <= 1921" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "Urocyon littoralis year <= 2015" ; Times: 1
+	Query: "country:"Mexico" specificepithet:iguana genus:Iguana year >= 1960" ; Times: 1
+	Query: "Merops orientalis" ; Times: 1
+	Query: "enicurus maculatus type:specimen country:"India"" ; Times: 1
+	Query: "cinclus pallasii type:specimen country:"India"" ; Times: 1
+	Query: "aves norman institutioncode:SBMNH AND (NOT OMNH)" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Melospiza melodia stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "heosemys spinosa mappable:1" ; Times: 1
+	Query: "country:"canada" specificepithet:ungava genus:phenacomys" ; Times: 1
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "Fregata Magnificens mappable:1" ; Times: 5
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:striatus genus:Tamias year >= 1920" ; Times: 1
+	Query: "aves 4234 institutioncode:SBMNH AND (NOT OMNH)" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus (tissue) year >= 1970 year <= 2015" ; Times: 1
+	Query: "andigena laminirostris" ; Times: 1
+	Query: "empidonax traillii (arizona ) mappable:1" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Bubo virginianus saturatus" ; Times: 1
+	Query: "Caprimulgus europaeus" ; Times: 1
+	Query: "Glaucidium radiatum tissue" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 1
+	Query: "Piaya melanogaster" ; Times: 1
+	Query: "Contopus virens stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "aves hefner institutioncode:SBMNH AND (NOT OMNH)" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "thamnomanes caesius" ; Times: 1
+	Query: "fregata magnificens mappable:1" ; Times: 3
+	Query: "Coracias garrulus" ; Times: 1
+	Query: "Chen canagica" ; Times: 2
+	Query: "asia clamator" ; Times: 1
+	Query: "accipiter badius type:specimen country:"India"" ; Times: 1
+	Query: "lampropeltis county:"ventura" stateprovince:"california"" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus year >= 1800 year <= 1915" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:cricetus genus:cricetus" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 3
+	Query: "Phoebastria albatrus" ; Times: 2
+	Query: "county:"Los Angeles" stateprovince:"California" specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: ""empidonax traillii" (Arizona)" ; Times: 1
+	Query: "Arizona county:"kern"" ; Times: 1
+	Query: "fundulus parvipinnis" ; Times: 1
+	Query: "Myrmotherula erythrura" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: ""Empidonax traillii" type:specimen (Arizona) mappable:1" ; Times: 2
+	Query: "fregata magnificens" ; Times: 4
+	Query: "Wilsonia citrina stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "catharus guttatus (Maine)" ; Times: 1
+	Query: "lampropeltis county:"kern"" ; Times: 1
+	Query: "riga" ; Times: 1
+	Query: "genus:melospiza specificepithet:melodia year:1963" ; Times: 1
+	Query: "milvus migrans type:specimen country:"India"" ; Times: 1
+	Query: ""lampropeltis alterna"" ; Times: 1
+	Query: "Canis latrans country:"Mexico" year >= 1985 year <= 2015 mappable:1" ; Times: 1
+	Query: "coracias benghalensis type:specimen country:"India"" ; Times: 1
+	Query: "Foudia" ; Times: 1
+	Query: "county:"San Luis Obispo" genus:Elgaria" ; Times: 1
+	Query: "oxybelis aeneus arizona" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus (tissue) year >= 1970" ; Times: 1
+	Query: "myrmecophaga" ; Times: 2
+	Query: "OS Melospiza" ; Times: 1
+	Query: "genus:Ursus year >= 1931 year <= 1933" ; Times: 2
+	Query: "stateprovince:"Georgia" specificepithet:polionotus genus:peromyscus year >= 1950" ; Times: 2
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Sialia mexicana occidentalis year <= 1889" ; Times: 1
+	Query: "Chen canagica tissue" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "chionactis klauberi" ; Times: 1
+	Query: "cypseloides (tissue)" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "orthotomus sutorius type:specimen country:"India"" ; Times: 1
+	Query: "Lampropeltis getula californiae" ; Times: 1
+	Query: "pachyphantes" ; Times: 1
+	Query: "Nothura" ; Times: 2
+	Query: "heliodoxa aurescens" ; Times: 1
+	Query: "rabbits" ; Times: 1
+	Query: "county:"Los Angeles" stateprovince:"California" genus:Taxidea" ; Times: 1
+	Query: "Turdus torquatus" ; Times: 1
+	Query: "prinia socialis type:specimen" ; Times: 2
+	Query: "alterna texas" ; Times: 1
+	Query: "county:"Santa Barbara" stateprovince:"California" specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+	Query: "gymnogyps" ; Times: 1
+	Query: "specificepithet:lynx genus:lynx" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus (tissue) year >= 1990" ; Times: 2
+	Query: "genus:kogia" ; Times: 1
+	Query: "aves welder 1977 AND (NOT OMNH)" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 2
+	Query: "charina county:"kern" stateprovince:"california"" ; Times: 1
+	Query: "chaetura pelagica mappable:1" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "specificepithet:bovallii genus:Rhinobothryum" ; Times: 1
+	Query: "specificepithet:ungava genus:phenacomys" ; Times: 1
+	Query: "Ruddocki" ; Times: 1
+	Query: "dutch birds" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:striatus genus:Tamias" ; Times: 1
+	Query: "passer domesticus type:specimen country:"India"" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 1
+	Query: "prinia socialis" ; Times: 2
+	Query: "(Spinus lawrencei)" ; Times: 1
+	Query: "aledo illinois" ; Times: 2
+	Query: "type:specimen genus:Monasa" ; Times: 2
+	Query: "type:specimen genus:Ursus year >= 1931 year <= 1933" ; Times: 1
+	Query: "genus:Steno" ; Times: 1
+	Query: "Erythrura gouldiae" ; Times: 2
+	Query: "Eumeces gilberti nevada" ; Times: 2
+	Query: "stateprovince:"Colorado" specificepithet:Princeps genus:Zapus" ; Times: 1
+	Query: "Numenius arquata" ; Times: 2
+	Query: "empidonax traillii year >= 1990 year <= 2013 mappable:1" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "lampropeltis zonata riverside" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 1
+	Query: "Mark here" ; Times: 1
+	Query: "genus:melospiza specificepithet:melodia year:1936" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 326 download events in this period)
+Total number of records downloaded: 3844 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3331
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 60
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 5
+	Date: 2015-02-03 ; Times: 3
+	Date: 2015-02-04 ; Times: 5
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-07 ; Times: 5
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 5
+	Date: 2015-02-12 ; Times: 4
+	Date: 2015-02-13 ; Times: 9
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-18 ; Times: 5
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 2
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 4
+	Date: 2015-02-24 ; Times: 10
+	Date: 2015-02-25 ; Times: 7
+	Date: 2015-02-26 ; Times: 2
+	Date: 2015-02-27 ; Times: 3
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "county:"Los Angeles" stateprovince:"California" genus:Taxidea" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "genus:Balaena" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus" ; Times: 1
+	Query: "specificepithet:roborovskii genus:Phodopus" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "type:specimen stateprovince:"north carolina" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Canis latrans country:"Mexico" mappable:1" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Falco peregrinus eggs" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "genus:kogia" ; Times: 1
+	Query: "eumeces gilberti Nevada" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "genus:Ducula" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: ""Empidonax traillii" type:specimen (California) mappable:1" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 2
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Imantodes" ; Times: 1
+	Query: "coracias benghalensis type:specimen country:"India"" ; Times: 1
+	Query: "Monasa year <= 2015" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "genus:Grampus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "genus:orcinus" ; Times: 1
+	Query: ""Spea hammondii" mappable:1" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "genus:Mesoplodon" ; Times: 1
+	Query: "Dryocopus pileatus mappable:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "Bubo africanus" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Crotalus type:specimen year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "stateprovince:"California" genus:Callorhinus" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "aves stateprovince:"colima" country:"mexico" class:aves mappable:1" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "Carnivora county:"Los Angeles" stateprovince:"California" class:Mammalia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1141
+Total number of records retrieved from searches: 5882
+Number of download events that retrieved data from the resource: 219
+Total number of records downloaded: 11485
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1339
+Total number of records retrieved from searches: 6536
+Number of download events that retrieved data from the resource: 1140
+Total number of records downloaded: 100480
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
