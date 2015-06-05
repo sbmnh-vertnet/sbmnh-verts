@@ -1,0 +1,425 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 287
+Number of records retrieved in searches: 955
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Czech Republic ; Times: 3
+	Country: Germany ; Times: 7
+	Country: India ; Times: 13
+	Country: Mexico ; Times: 10
+	Country: Micronesia ; Times: 3
+	Country: United Kingdom ; Times: 20
+	Country: United States ; Times: 183
+	Country: Unknown ; Times: 32
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 8
+	Date: 2015-05-06 ; Times: 12
+	Date: 2015-05-07 ; Times: 18
+	Date: 2015-05-08 ; Times: 8
+	Date: 2015-05-09 ; Times: 5
+	Date: 2015-05-10 ; Times: 4
+	Date: 2015-05-11 ; Times: 12
+	Date: 2015-05-12 ; Times: 17
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-14 ; Times: 10
+	Date: 2015-05-15 ; Times: 25
+	Date: 2015-05-16 ; Times: 30
+	Date: 2015-05-17 ; Times: 5
+	Date: 2015-05-18 ; Times: 10
+	Date: 2015-05-19 ; Times: 14
+	Date: 2015-05-20 ; Times: 24
+	Date: 2015-05-21 ; Times: 6
+	Date: 2015-05-22 ; Times: 12
+	Date: 2015-05-23 ; Times: 17
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 8
+	Date: 2015-05-26 ; Times: 19
+	Date: 2015-05-27 ; Times: 6
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-29 ; Times: 5
+	Date: 2015-05-30 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco deiroleucus" ; Times: 4
+	Query: "Sialia sialis Arizona" ; Times: 2
+	Query: "30758" ; Times: 1
+	Query: ""charina bottae" stateprovince:"california"" ; Times: 1
+	Query: "aves Georgia United States Vireo olivaceus" ; Times: 1
+	Query: "Parus stupae" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "butastur teesa" ; Times: 3
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "iodopleura isabellae" ; Times: 2
+	Query: "Macrotus californicus county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "Pterocles alchata" ; Times: 6
+	Query: ""branta bernicla" stateprovince:"Alaska"" ; Times: 1
+	Query: "Mus musculus county:"San Diego"" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "specificepithet:bahamensis genus:anas" ; Times: 1
+	Query: "Xantusia vigilis riverside" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 2
+	Query: "gracula religiosa" ; Times: 3
+	Query: "stateprovince:"alaska" class:aves recordedby:rex" ; Times: 1
+	Query: "henshawi county:"Riverside" class:reptilia" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 3
+	Query: "turdoides affinis" ; Times: 5
+	Query: "genus:Rhinobothryum" ; Times: 1
+	Query: "specificepithet:leander genus:Anotomys" ; Times: 10
+	Query: "Oceanodroma willetti" ; Times: 1
+	Query: "scolopax rusticola" ; Times: 1
+	Query: "Nyctinomops macrotis county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "turdoides striatus" ; Times: 8
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 4
+	Query: "Neotoma albigula county:"San Diego"" ; Times: 1
+	Query: "Ovis canadensis county:"San Diego"" ; Times: 1
+	Query: "Uma scoparia Riverside Blythe" ; Times: 1
+	Query: "Scapanus latimanus county:"San Diego"" ; Times: 1
+	Query: "cuculus canorus" ; Times: 1
+	Query: "lanius collurio" ; Times: 2
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "Phoebastria immutabilis type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "dumetia hyperythra" ; Times: 1
+	Query: "mcallii" ; Times: 4
+	Query: "aves Georgia United States Cyanocitta cristata" ; Times: 1
+	Query: "Phacochoerus aethiopicus aethiopicus" ; Times: 1
+	Query: "genus:rupicola" ; Times: 2
+	Query: "Notiosorex crawfordi county:"San Diego"" ; Times: 1
+	Query: "aves Georgia United States Thryothorus ludovicianus" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Geotrygon saphirina" ; Times: 20
+	Query: "Arizona elegans county:"los angeles" stateprovince:"California"" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "country:"united states" specificepithet:ferruginea genus:calidris" ; Times: 1
+	Query: "wisconsin horicon marsh" ; Times: 2
+	Query: "Canis lupus institutioncode:SBMNH" ; Times: 1
+	Query: "perognathus flavus stateprovince:"Sonora"" ; Times: 1
+	Query: "Onychomys torridus county:"San Diego"" ; Times: 1
+	Query: "Dipodomys deserti county:"San Diego"" ; Times: 1
+	Query: "Amaurornis akool" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 1
+	Query: "Picus viridis" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 1
+	Query: "stateprovince:"California" country:"United States" genus:Ondatra year >= 1950" ; Times: 1
+	Query: "Lampropeltis zonata county:"Los Angeles"" ; Times: 1
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "locustella certhiola" ; Times: 13
+	Query: "crotalus scutulatus" ; Times: 3
+	Query: "muscicapa ruficauda" ; Times: 4
+	Query: "haliaeetus leucoryphus" ; Times: 2
+	Query: "canis latrans peninsulae" ; Times: 1
+	Query: "Turdus falcklandii" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+	Query: "phrynosoma pima county" ; Times: 1
+	Query: "lama country:"United States"" ; Times: 1
+	Query: "clemmys field museum" ; Times: 1
+	Query: "oxybelis arizona" ; Times: 1
+	Query: "Phrynosoma coronatum (California) year >= 2000 year <= 2015" ; Times: 1
+	Query: "caprimulgus mahrattensis" ; Times: 1
+	Query: "oxybelis aeneus stateprovince:"arizona"" ; Times: 4
+	Query: "genus:Pan" ; Times: 1
+	Query: "sclerurus mexicanus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1910" ; Times: 1
+	Query: "Bubo scandiacus (tissue or specimen)" ; Times: 1
+	Query: "Lampropeltis pyromelana Arizona" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum institutioncode:SBMNH" ; Times: 1
+	Query: "Bubo scandiacus type:specimen" ; Times: 1
+	Query: "lanius isabellinus" ; Times: 3
+	Query: "acrocephalus dumetorum" ; Times: 4
+	Query: ""rio blanco" country:"Ecuador" class:Aves" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 2
+	Query: "canis latrans stateprovince:"baja california" country:"Mexico"" ; Times: 1
+	Query: "Lobodon carcinophagus" ; Times: 1
+	Query: "barrabandi" ; Times: 1
+	Query: "genus:rupicola mappable:1" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 2
+	Query: "ursus arctos stateprovince:"british columbia"" ; Times: 3
+	Query: "(exigua)" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Oceanodroma willetti year >= 1913 year <= 1913" ; Times: 1
+	Query: "clemmys guttata field museum" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1923" ; Times: 1
+	Query: "PATAGONA GIGAS" ; Times: 1
+	Query: "Truk Reptiles" ; Times: 3
+	Query: "henshawi class:reptilia" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 1
+	Query: "bufo alvarius" ; Times: 8
+	Query: "Canis latrans institutioncode:SBMNH" ; Times: 1
+	Query: "rupicola peruviana" ; Times: 2
+	Query: "blewitti" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 1
+	Query: "Ammospermophilus leucurus county:"San Diego"" ; Times: 1
+	Query: "Psittacula 1918" ; Times: 2
+	Query: "Charina bottae" ; Times: 2
+	Query: "Tantilla wilcoxi arizona" ; Times: 1
+	Query: "Pyromelana" ; Times: 2
+	Query: "corvus corax class:aves year >= 1933 year <= 1933" ; Times: 1
+	Query: "Peromyscus crinitus county:"San Diego"" ; Times: 1
+	Query: "chiroptera Baja California isla" ; Times: 2
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "Tantilla wilcoxi Madera Canyon" ; Times: 1
+	Query: "lucidus arizona" ; Times: 3
+	Query: "Microtus townsendii county:"Skagit" stateprovince:"Washington" specificepithet:townsendii genus:Microtus (pugeti) year <= 2000" ; Times: 1
+	Query: "coluber constrictor idaho" ; Times: 6
+	Query: "aves Georgia United States serripennis" ; Times: 1
+	Query: "Lampropeltis zonata multifasciata" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 3
+	Query: "Sitta carolinensis year >= 1886 year <= 1887" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Phrynosoma (California) year >= 2000 year <= 2015" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum" ; Times: 5
+	Query: "Electron" ; Times: 1
+	Query: "Sorex ornatus county:"San Diego"" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "san felipe narrows stateprovince:"california"" ; Times: 1
+	Query: "alopias" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 1
+	Query: "microtus californicus institutioncode:SBMNH" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Onychomys torridus ramona mappable:1" ; Times: 1
+	Query: "actinemys" ; Times: 1
+	Query: "anas platyrhynchos india" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "aves Georgia United States Vireo griseus" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "Rattus rattus county:"San Diego"" ; Times: 1
+	Query: "lagothrix lagotricha mappable:1" ; Times: 2
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "spermophilus tereticaudus county:"San Diego"" ; Times: 1
+	Query: "chiroptera baja california isla" ; Times: 1
+	Query: "exigua" ; Times: 2
+	Query: "Chaetodipus baileyi county:"San Diego"" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "Neofelis" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 202 (out of 976 download events in this period)
+Total number of records downloaded: 20749 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 14193
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 104
+	Country: Unknown ; Times: 58
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 3
+	Date: 2015-05-07 ; Times: 9
+	Date: 2015-05-08 ; Times: 2
+	Date: 2015-05-09 ; Times: 5
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 5
+	Date: 2015-05-12 ; Times: 7
+	Date: 2015-05-13 ; Times: 10
+	Date: 2015-05-14 ; Times: 4
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 26
+	Date: 2015-05-19 ; Times: 37
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 42
+	Date: 2015-05-22 ; Times: 12
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 6
+	Date: 2015-05-26 ; Times: 6
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-29 ; Times: 4
+	Date: 2015-05-30 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1951 year <= 1960" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "ambystoma mavortium" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Pseudacris regilla mappable:1" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "ambystoma" ; Times: 1
+	Query: "Hyla arenicolor mappable:1" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Neotoma phenax" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Hydrophiidae mappable:1" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "stateprovince:"jalisco" country:"mexico" class:reptilia" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1931 year <= 1940" ; Times: 1
+	Query: "Microtus townsendii county:"Skagit" stateprovince:"Washington" specificepithet:townsendii genus:Microtus (pugeti) year <= 2000" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1991 year <= 2000" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "Neotoma albigula" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "stateprovince:"Baja" country:"Mexico" class:mammalia (isla OR island)" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:amphibia" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Ensatina mappable:1" ; Times: 1
+	Query: "Uma scoparia Riverside Blythe" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "Phrynosoma coronatum (California) year >= 2000 year <= 2015" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "oxybelis aeneus stateprovince:"arizona"" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Erethizontidae" ; Times: 1
+	Query: "lanius isabellinus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "chiroptera stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "canis latrans stateprovince:"baja california" country:"Mexico"" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "cnemidophorus tigris" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1921 year <= 1930" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 3
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 4
+	Query: "country:"United States" class:Mammalia year >= 1961 year <= 1970" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "chiroptera Baja California" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1941 year <= 1950" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "microtus californicus institutioncode:SBMNH" ; Times: 2
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1850 year <= 1900" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "myotis stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Cachar" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1510
+Total number of records retrieved from searches: 7163
+Number of download events that retrieved data from the resource: 491
+Total number of records downloaded: 36487
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1708
+Total number of records retrieved from searches: 7817
+Number of download events that retrieved data from the resource: 1412
+Total number of records downloaded: 125482
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
