@@ -1,0 +1,365 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 189
+Number of records retrieved in searches: 553
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 8
+	Country: Russia ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 4
+	Country: France ; Times: 3
+	Country: United States ; Times: 121
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-14 ; Times: 10
+	Date: 2015-10-15 ; Times: 9
+	Date: 2015-10-12 ; Times: 7
+	Date: 2015-10-13 ; Times: 4
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-11 ; Times: 3
+	Date: 2015-10-18 ; Times: 7
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 9
+	Date: 2015-10-28 ; Times: 10
+	Date: 2015-10-27 ; Times: 11
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 3
+	Date: 2015-10-24 ; Times: 7
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 5
+	Date: 2015-10-21 ; Times: 10
+	Date: 2015-10-05 ; Times: 6
+	Date: 2015-10-04 ; Times: 2
+	Date: 2015-10-07 ; Times: 12
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-01 ; Times: 10
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 17
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 14
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "guttera edouardi year &gt;= 1960" ; Times: 1
+	Query: "Bassariscus astutus distance(location,geopoint(36.7682256447202,-121.81640625))&lt;100000" ; Times: 1
+	Query: "empidonax extimus" ; Times: 1
+	Query: "Onychomys torridus tularensis (Kern)" ; Times: 2
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "sitta pusilla caniceps" ; Times: 1
+	Query: "Perognathus parvus xanthonotus" ; Times: 1
+	Query: "Sterna acuticauda" ; Times: 1
+	Query: "Nesillas typica" ; Times: 1
+	Query: "Tamias obscurus distance(location,geopoint(32.828827094089085,-116.06986999511719))&lt;100000" ; Times: 1
+	Query: "gracula religiosa" ; Times: 2
+	Query: "Lophotriccus vitiosus mappable:1" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 2
+	Query: "Nyctibius aethereus" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus stateprovince:&#34;colorado&#34; OR &#34;California&#34;" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus catalognumber:1381 institutioncode:SBMNH" ; Times: 1
+	Query: "puma concolor baja california" ; Times: 1
+	Query: "Awash" ; Times: 1
+	Query: "bogertophis rosaliae" ; Times: 3
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 3
+	Query: "Tamias obscurus distance(location,geopoint(34.1890858311724,-116.99752807617188))&lt;22358" ; Times: 2
+	Query: "Xenopus laevis country:&#34;United States&#34;" ; Times: 1
+	Query: "Anas erythrorhyncha" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "NOTIOSOREX BAJA CALIFORNIA" ; Times: 1
+	Query: "specificepithet:productus genus:Rhinobatos continent:North America" ; Times: 1
+	Query: "type:specimen genus:Dasyornis" ; Times: 1
+	Query: "actinemys" ; Times: 1
+	Query: "guttera" ; Times: 1
+	Query: "francolinus castaneicollis" ; Times: 1
+	Query: "genus:Icteria stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chiroxiphia pareola AND (NOT boliviana) mappable:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 8
+	Query: "Guttera year &gt;= 1960" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Athene blewitti country:&#34;India&#34;" ; Times: 1
+	Query: "Perognathus longimembris pacificus" ; Times: 2
+	Query: "ammoperdix griseogularis" ; Times: 1
+	Query: "Amaurornis akool akool" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "Little Gull" ; Times: 4
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Dryocopus fuscipennis" ; Times: 1
+	Query: "puma concolor baja sur" ; Times: 1
+	Query: "baja california notiosorex" ; Times: 1
+	Query: "milvus milvus Italy" ; Times: 1
+	Query: "genus:Leopardus institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus catalognumber:27 institutioncode:SBMNH" ; Times: 1
+	Query: "calocitta formosa" ; Times: 1
+	Query: "francolinus levaillantii" ; Times: 1
+	Query: "parus major" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Peromyscus truei distance(location,geopoint(32.76880048488168,-116.67755126953125))&lt;100000" ; Times: 3
+	Query: "Bassariscus astutus distance(location,geopoint(36.7682256447202,-121.81640625))&lt;312033" ; Times: 1
+	Query: "muscicapa ruficauda" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Lophotriccus pileatus mappable:1" ; Times: 1
+	Query: "Asio stygius" ; Times: 1
+	Query: "Motacilla flava country:&#34;india&#34;" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "Onychomys torridus pulcher (Kern)" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 1
+	Query: "Xiphorhynchus triangularis mappable:1" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "canis latrans county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Xenopus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 2
+	Query: "Neophron type:specimen" ; Times: 1
+	Query: "panthera leo" ; Times: 3
+	Query: "puma concolor baja" ; Times: 1
+	Query: "Neophron" ; Times: 5
+	Query: "Guttera edouardi year &gt;= 1950" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "parus major india" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "colinus costa rica" ; Times: 1
+	Query: "Guttera edouardi" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Lessonia (aves) mappable:1" ; Times: 1
+	Query: "Pelamis platura" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Guttera year &gt;= 1950" ; Times: 1
+	Query: "Phylloscopus neglectus" ; Times: 1
+	Query: "anthus berthelotii" ; Times: 2
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+	Query: "Spermophilus pygmaeus" ; Times: 1
+	Query: "genus:Lessonia mappable:1" ; Times: 2
+	Query: "dogs" ; Times: 1
+	Query: "pest" ; Times: 2
+	Query: "Peromyscus truei distance(location,geopoint(32.84267363195431,-117.333984375))&lt;100000" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 2
+	Query: "felidae specificepithet:CONCOLOR genus:PUMA family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus assimilis" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus catalognumber:1218 institutioncode:SBMNH" ; Times: 1
+	Query: "Peromyscus truei distance(location,geopoint(32.87036022808354,-116.444091796875))&lt;26540" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "Conopophaga peruviana mappable:1" ; Times: 1
+	Query: "Synthliboramphus hypoleucus California" ; Times: 2
+	Query: "puma concolor sur" ; Times: 1
+	Query: "turdus fuscater" ; Times: 4
+	Query: "Aglaiocercus coelestis mappable:1" ; Times: 1
+	Query: "peromyscus polionotus year &gt;= 1985 year &lt;= 2010" ; Times: 2
+	Query: "Panthera tigris" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "rallus limicola eggs" ; Times: 2
+	Query: "Campylopterus largipennis mappable:1" ; Times: 2
+	Query: "Francolinus sephaena" ; Times: 1
+	Query: "Meriones shawi" ; Times: 3
+	Query: "Chrysochloridae" ; Times: 1
+	Query: "white-tailed hawk" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus catalognumber:2037 institutioncode:SBMNH" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "Langara Island" ; Times: 3
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "Tamias obscurus distance(location,geopoint(34.20214846682091,-117.00645446777344))&lt;14951" ; Times: 1
+	Query: "Onychomys torridus tularensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 153 (out of 823 download events in this period)
+Total number of records downloaded: 16408
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Italy ; Times: 3
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 6
+	Country: Peru ; Times: 2
+	Country: United States ; Times: 107
+	Country: Uganda ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 13
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 5
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-19 ; Times: 8
+	Date: 2015-10-29 ; Times: 11
+	Date: 2015-10-28 ; Times: 5
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 3
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 7
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 7
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 5
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 8
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 3
+	Date: 2015-10-02 ; Times: 15
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 7
+	Date: 2015-10-30 ; Times: 14
+	Date: 2015-10-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "puma concolor baja california" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Dysithamnus mentalis mappable:1" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Harpactes erythrocephalus" ; Times: 1
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Lophotriccus vitiosus mappable:1" ; Times: 1
+	Query: "Nyctibius aethereus" ; Times: 1
+	Query: "vireo olivaceus type:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "elapidae mexico" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "bogertophis rosaliae" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Xenopus laevis country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "actinemys" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "Chiroxiphia pareola AND (NOT boliviana) mappable:1" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Campephilus rubricollis mappable:1" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Henicorhina leucophrys mappable:1" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "elgaria kingii" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "Campylopterus largipennis mappable:1" ; Times: 2
+	Query: "Tangara nigrocincta mappable:1" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "genetta genetta" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "Peromyscus maniculatus assimilis" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Conopophaga peruviana mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "puma concolor sur" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "felidae baja california" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "Aglaiocercus coelestis mappable:1" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "peromyscus (Santa Monica)" ; Times: 1
+	Query: "Phaethornis yaruqui mappable:1" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Meriones shawi" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "perognathus inornatus year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "motacilla citreola" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
