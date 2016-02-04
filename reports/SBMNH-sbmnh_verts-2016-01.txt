@@ -1,0 +1,290 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 661
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 82
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 7
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-05 ; Times: 7
+	Date: 2016-01-20 ; Times: 5
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-01 ; Times: 5
+	Date: 2016-01-24 ; Times: 11
+	Date: 2016-01-25 ; Times: 9
+	Date: 2016-01-28 ; Times: 7
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 4
+	Date: 2016-01-22 ; Times: 6
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-07 ; Times: 5
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-11 ; Times: 9
+	Date: 2016-01-10 ; Times: 4
+	Date: 2016-01-17 ; Times: 4
+	Date: 2016-01-16 ; Times: 3
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-31 ; Times: 3
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-02 ; Times: 7
+	Date: 2016-01-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sceloporus locality:&#34;Santa Cruz Island&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "terpsiphone paradisi india" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Balaenoptera physalus California" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "struthio type:specimen" ; Times: 1
+	Query: "type:specimen (Anisognathus igniventris)" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Oceanodroma Benito" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Oklahoma&#34; year &gt;= 1926 year &lt;= 1926" ; Times: 2
+	Query: "ailurus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "Oceanodroma homochroa 1895" ; Times: 1
+	Query: "pharomachrus type:specimen" ; Times: 2
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 7
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34; distance(location,geopoint(29.162555018601683,-100.31890869140625))&lt;50875" ; Times: 1
+	Query: "lontra canadensis alabama" ; Times: 2
+	Query: "type:specimen specificepithet:rosaliae genus:Bogertophis" ; Times: 1
+	Query: "Choeronycteris mexicana and Arizona" ; Times: 2
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "&#34;Heliangelus viola&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa 1896" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "oseryi" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 2
+	Query: "Tantilla wilcoxi" ; Times: 2
+	Query: "orcinus orca" ; Times: 4
+	Query: "specificepithet:leucosticta genus:Henicorhina mappable:1 country:Ecuador" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 7
+	Query: "&#34;Lepidocolaptes lacrymiger&#34;" ; Times: 1
+	Query: "type:specimen order:psittaciformes (Agapornis taranta)" ; Times: 1
+	Query: "&#34;Coeligena iris&#34;" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "mephitis mephitis los angeles" ; Times: 1
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "Oceanodroma homochroa Cruz rock" ; Times: 1
+	Query: "Dipodomys merriami county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Dipodomys merriami collinus type:specimen mappable:1" ; Times: 2
+	Query: "&#34;Hemispingus superciliaris&#34;" ; Times: 1
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "dipodomys heermanni (Kern County)" ; Times: 1
+	Query: "&#34;Pipreola arcuata&#34;" ; Times: 1
+	Query: "Pan type:specimen (paniscus OR troglodytes)" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Callithrix pygmaea type:specimen" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dipodomys McKittrick California" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "specificepithet:stephensi genus:Dipodomys county:&#34;San Diego&#34;" ; Times: 1
+	Query: "myrmeciza immaculata" ; Times: 1
+	Query: "class:Mammalia locality:&#34;San Clemente Island&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dipodomys stephensi county:&#34;San Diego&#34;" ; Times: 2
+	Query: "Ixoreus naevius month &gt;= 6 month &lt;= 6" ; Times: 2
+	Query: "Pitangus sulphuratus argentina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;California&#34; (Middle Anacapa)" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "genus:georychus" ; Times: 1
+	Query: "halcyon chelicuti" ; Times: 2
+	Query: "Dipodomys merriami collinus" ; Times: 2
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 1
+	Query: "zenaida auriculata" ; Times: 3
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; year &gt;= 1927 year &lt;= 1927" ; Times: 1
+	Query: "jacksonii" ; Times: 1
+	Query: "Henicorhina leucosticta hauxwelli" ; Times: 1
+	Query: "&#34;Rhynchocyclus fulvipectus&#34;" ; Times: 1
+	Query: "Anisognathus somptuosus" ; Times: 1
+	Query: "wisconsin tamiasciurus" ; Times: 1
+	Query: "oxybelis arizona" ; Times: 2
+	Query: "specificepithet:simulans genus:Dipodomys county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "peromyscus maniculatus santacruzae" ; Times: 1
+	Query: "peromyscus maniculatus anacapae" ; Times: 2
+	Query: "Panthera leo" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 114 (out of 507 download events in this period)
+Total number of records downloaded: 8007
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 91
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-05 ; Times: 11
+	Date: 2016-01-06 ; Times: 5
+	Date: 2016-01-21 ; Times: 5
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 5
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 5
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-13 ; Times: 5
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-02 ; Times: 13
+	Date: 2016-01-03 ; Times: 9
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-01 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "boylii" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "california condor" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "&#34;Masius chrysopterus&#34;" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "&#34;Lepidocolaptes lacrymiger&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Reptilia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Doryfera ludovicae&#34;" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "wilsonia pusilla month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "&#34;Phaethornis syrmatophorus&#34;" ; Times: 1
+	Query: "&#34;Hemispingus superciliaris&#34;" ; Times: 1
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "&#34;Elaenia pallatangae&#34;" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34; distance(location,geopoint(29.162555018601683,-100.31890869140625))&lt;50875" ; Times: 1
+	Query: "&#34;Heliangelus viola&#34;" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "&#34;Trogon personatus&#34;" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "&#34;Euphonia xanthogaster&#34;" ; Times: 1
+	Query: "genus:haliaeetus year &gt;= 1996 year &lt;= 2015" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "&#34;Coeligena coeligena&#34;" ; Times: 1
+	Query: "genus:Sorex county:&#34;Lincoln&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "&#34;Tangara vassorii&#34;" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "&#34;Margarornis squamiger&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "type:specimen locality:Buttes county:&#34;Sutter&#34;" ; Times: 1
+	Query: "&#34;Pipreola arcuata&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
