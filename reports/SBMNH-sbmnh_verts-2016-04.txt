@@ -1,0 +1,719 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 591
+Number of records retrieved in searches: 3631
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 63
+	Country: Brazil ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 151
+	Country: Panama ; Times: 9
+	Country: Montenegro ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 313
+	Country: Switzerland ; Times: 2
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 18
+	Country: Czech Republic ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 32
+	Date: 2016-04-28 ; Times: 6
+	Date: 2016-04-07 ; Times: 10
+	Date: 2016-04-06 ; Times: 17
+	Date: 2016-04-05 ; Times: 42
+	Date: 2016-04-04 ; Times: 9
+	Date: 2016-04-21 ; Times: 20
+	Date: 2016-04-20 ; Times: 6
+	Date: 2016-04-09 ; Times: 18
+	Date: 2016-04-08 ; Times: 16
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 13
+	Date: 2016-04-27 ; Times: 79
+	Date: 2016-04-26 ; Times: 54
+	Date: 2016-04-22 ; Times: 25
+	Date: 2016-04-18 ; Times: 13
+	Date: 2016-04-19 ; Times: 39
+	Date: 2016-04-14 ; Times: 19
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 28
+	Date: 2016-04-17 ; Times: 26
+	Date: 2016-04-10 ; Times: 6
+	Date: 2016-04-11 ; Times: 12
+	Date: 2016-04-12 ; Times: 10
+	Date: 2016-04-13 ; Times: 68
+	Date: 2016-04-03 ; Times: 8
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "Athene AND Island" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "Synthliboramphus AND &#34;SAnta Barbara Island&#34;" ; Times: 1
+	Query: "dubusia taeniata" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-111.657516))&lt;15000" ; Times: 1
+	Query: "Miguel Island AND 1884" ; Times: 1
+	Query: "Miguel Island AND 1880" ; Times: 1
+	Query: "Miguel Island AND 1881" ; Times: 1
+	Query: "Miguel Island AND 1882" ; Times: 1
+	Query: "Miguel Island AND 1883" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "Oxybelis arizona" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.367516))&lt;15000" ; Times: 6
+	Query: "Dumetella carolinensis (British Columbia)" ; Times: 1
+	Query: "Anacapa AND Rattus" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.297516))&lt;15000" ; Times: 1
+	Query: "SAN MIGUEL ISLAND AND Egg AND 1929" ; Times: 2
+	Query: "distance(location,geopoint(28.749036,-112.677516))&lt;15000" ; Times: 1
+	Query: "lepus californicus bennettii" ; Times: 1
+	Query: "Eptesicus AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "type:specimen genus:Mirounga order:Carnivora" ; Times: 1
+	Query: "Felis AND Cruz Island AND California NOT Mexico" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "(rubus) mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:albiventer genus:Tachycineta" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-113.697516))&lt;15000" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Tyto alba AND Santa Catalina Island" ; Times: 1
+	Query: "San Nicolas Island AND 1913" ; Times: 1
+	Query: "San Nicolas Island AND 1912" ; Times: 1
+	Query: "San Nicolas Island AND 1911" ; Times: 1
+	Query: "San Nicolas Island AND 1910" ; Times: 2
+	Query: "Bassariscus type:specimen stateprovince:&#34;Texas&#34; mappable:1" ; Times: 5
+	Query: "distance(location,geopoint(21.949036,-105.877516))&lt;15000" ; Times: 5
+	Query: "Spilogale AND Island" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.487516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; country:&#34;United States&#34; (Leavitt)" ; Times: 1
+	Query: "family:molossidae order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 4
+	Query: "Actinemys marmorata" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-111.997516))&lt;15000" ; Times: 1
+	Query: "Crotalus AND Catalina Island AND California NOT Mexico" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Tantilla wilcoxi Arizona" ; Times: 2
+	Query: "poecilotriccus calopterus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(30.959036,-114.717516))&lt;15000" ; Times: 1
+	Query: "Panthera Leo" ; Times: 2
+	Query: "kinixys homeana" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.559036,-111.827516))&lt;15000" ; Times: 1
+	Query: "county:&#34;Tuscarawas&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "Buteo lineatus Ontario" ; Times: 10
+	Query: "microtus pennsylvanicus georgia" ; Times: 2
+	Query: "vandenberg air force base" ; Times: 1
+	Query: "birds from Europe" ; Times: 2
+	Query: "21026" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.147516))&lt;15000" ; Times: 2
+	Query: "Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.467516))&lt;15000" ; Times: 1
+	Query: "SBMNH AND Anacapa" ; Times: 1
+	Query: "chiroptera and maine" ; Times: 1
+	Query: "Wilsonia canadensis  Ontario" ; Times: 10
+	Query: "Anacapa AND Bird AND 1939" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.447516))&lt;15000" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1989" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1911" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1910" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1913" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1912" ; Times: 1
+	Query: "tachybaptus (africa)" ; Times: 2
+	Query: "Lester AND San Miguel Island" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-108.937516))&lt;15000" ; Times: 1
+	Query: "lanthanotus" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 3
+	Query: "Santa Cruz Island AND Canis" ; Times: 1
+	Query: "Dicamptodon ensatus Lake County" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Lanius ludovicianus migrans Ontario" ; Times: 10
+	Query: "type:specimen genus:bassariscus stateprovince:&#34;texas&#34; mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.637516))&lt;15000" ; Times: 1
+	Query: "crex" ; Times: 2
+	Query: "Anacapa Haliaeetus leucocephalus" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.367516))&lt;15000" ; Times: 4
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "Miguel Island AND 1877" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Miguel Island AND 1871" ; Times: 1
+	Query: "type:specimen specificepithet:albiventer genus:Tachycineta mappable:1" ; Times: 2
+	Query: "Miguel Island AND 1873" ; Times: 1
+	Query: "Synthliboramphus AND Nicolas" ; Times: 1
+	Query: "santa barbara county eagle" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.357516))&lt;15000" ; Times: 1
+	Query: "Anacapa AND Egg NOT 1988" ; Times: 1
+	Query: "Tyto AND Santa Rosa Island" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-105.877516))&lt;15000" ; Times: 6
+	Query: "San Miguel Island AND 1890" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.977516))&lt;15000" ; Times: 1
+	Query: "Bassariscus type:specimen (Texas) mappable:1" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Tyto AND Santa Catalina Island" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.197516))&lt;15000" ; Times: 6
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:calendula genus:regulus year &gt;= 1971 year &lt;= 1971" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 3
+	Query: "Aegotheles cristatus eggs" ; Times: 1
+	Query: "Felis AND Island AND California" ; Times: 1
+	Query: "Equus AND Island" ; Times: 1
+	Query: "Spermophilus mohavensis" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.217516))&lt;15000" ; Times: 1
+	Query: "Tyto alba AND Santa Rosa Island" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-111.997516))&lt;15000" ; Times: 1
+	Query: "santa barbara county golden eagle" ; Times: 1
+	Query: "terpsiphone mutata" ; Times: 1
+	Query: "Urocyon littoralis institutioncode:SBMNH" ; Times: 1
+	Query: "turdoides caudatus india" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-109.787516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-109.957516))&lt;15000" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "class:aves catalognumber:22127" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.637516))&lt;15000" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Bassariscus texas type:specimen mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.217516))&lt;15000" ; Times: 1
+	Query: "SBMNH AND Island" ; Times: 1
+	Query: "SBMNH 24711" ; Times: 1
+	Query: "SBMNH 24710" ; Times: 1
+	Query: "San Nicolas Island AND 1908" ; Times: 2
+	Query: "San Nicolas Island AND 1909" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "San Nicolas Island AND 1903" ; Times: 1
+	Query: "San Nicolas Island AND 1904" ; Times: 1
+	Query: "San Nicolas Island AND 1905" ; Times: 3
+	Query: "San Nicolas Island AND 1906" ; Times: 1
+	Query: "San Nicolas Island AND 1907" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Athene AND &#34;San Nicolas Island&#34;" ; Times: 1
+	Query: "locality:Lincoln stateprovince:&#34;Maine&#34; year &gt;= 1895 year &lt;= 1897" ; Times: 1
+	Query: "Kinixys" ; Times: 1
+	Query: "Anacapa AND AV" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-113.357516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Charadrius melodus Ontario" ; Times: 10
+	Query: "genus:Bassariscus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "phalacrocorax africanus" ; Times: 2
+	Query: "distance(location,geopoint(23.479036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Green AND San Miguel Island" ; Times: 1
+	Query: "Falco peregrinus AND Santa Barbara Island" ; Times: 1
+	Query: "Green AND &#34;Santa Cruz Island&#34; AND California NOT Burr NOT CLO" ; Times: 1
+	Query: "Santa Cruz Island AND Haliaeetus" ; Times: 1
+	Query: "Alectoris AND Island AND California" ; Times: 1
+	Query: "selasphorus sasin institutioncode:SBMNH" ; Times: 2
+	Query: "Anacapa AND Egg" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "class:aves catalognumber:26819" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "REGALECIDAE" ; Times: 2
+	Query: "Agelaius phoeniceus brownsville" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.657516))&lt;15000" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "Santa Barbara Island AND Canis" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "San Nicolas Island AND 1833" ; Times: 1
+	Query: "Callipepla AND Santa Cruz Island" ; Times: 1
+	Query: "ALOPIAS VULPINUS" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Felis AND Nicolas Island AND California NOT Mexico" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon county:&#34;Weld&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.297516))&lt;15000" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1999" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.887516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.617516))&lt;15000" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "genus: Bassariscus (Texas) mappable:1" ; Times: 1
+	Query: "specificepithet:bachmanii genus:Vermivora" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-110.467516))&lt;15000" ; Times: 1
+	Query: "San Nicolas Island AND 1940" ; Times: 1
+	Query: "aegotheles cristatus eggs" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Agelaius phoeniceus Florida orange County" ; Times: 1
+	Query: "Lasiurus AND Island AND California" ; Times: 1
+	Query: "cinereiventris" ; Times: 1
+	Query: "SBMNH AND San Nicolas Island" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza stateprovince:&#34;north carolina&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "pycnonotus leucogenys india" ; Times: 1
+	Query: "Bassariscus texas type:specimen" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "distance(location,geopoint(27.729036,-114.887516))&lt;15000" ; Times: 1
+	Query: "Urocyon littoralis santacruzae" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "196 ONTARIO 1" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+	Query: "Corvus AND Santa ROsa Island" ; Times: 1
+	Query: "Miguel Island AND 1864" ; Times: 1
+	Query: "Strongylura exilis" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Miguel Island AND 1868" ; Times: 1
+	Query: "Miguel Island AND 1869" ; Times: 1
+	Query: "Miguel Island AND 1866" ; Times: 1
+	Query: "Miguel Island AND 1867" ; Times: 1
+	Query: "Crax rubra" ; Times: 7
+	Query: "Miguel Island AND 1865" ; Times: 1
+	Query: "Miguel Island AND 1863" ; Times: 1
+	Query: "San Miguel Island AND 1886" ; Times: 1
+	Query: "San Miguel Island AND 1887" ; Times: 1
+	Query: "San Miguel Island AND 1884" ; Times: 2
+	Query: "San Miguel Island AND 1885" ; Times: 1
+	Query: "San Miguel Island AND 1882" ; Times: 1
+	Query: "San Miguel Island AND 1883" ; Times: 1
+	Query: "San Miguel Island AND 1880" ; Times: 1
+	Query: "San Miguel Island AND 1881" ; Times: 1
+	Query: "San Miguel Island AND 1888" ; Times: 1
+	Query: "San Miguel Island AND 1889" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Lampropeltis pyromelana type:specimen mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.977516))&lt;15000" ; Times: 1
+	Query: "Green AND &#34;Santa Cruz Island&#34; AND California" ; Times: 1
+	Query: "Lissodelphis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sarkidiornis" ; Times: 1
+	Query: "San Miguel Island AND 1879" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.787516))&lt;15000" ; Times: 1
+	Query: "San Miguel Island AND 1877" ; Times: 1
+	Query: "San Miguel Island AND 1876" ; Times: 1
+	Query: "San Miguel Island AND 1875" ; Times: 1
+	Query: "pyromelana" ; Times: 3
+	Query: "catalognumber:8845 institutioncode:SBMNH" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Felis AND Anacapa" ; Times: 1
+	Query: "Zalieutes" ; Times: 1
+	Query: "Chelydra serpentina Ontario" ; Times: 10
+	Query: "Crotalus AND Catalina Island" ; Times: 1
+	Query: "mimus saturninus" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "distance(location,geopoint(30.449036,-114.717516))&lt;15000" ; Times: 1
+	Query: "crex crex" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Felis AND Island AND California NOT Mexico" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.487516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-113.697516))&lt;15000" ; Times: 1
+	Query: "Lissodelphis borealis stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Alectoris AND San Nicolas Island" ; Times: 1
+	Query: "SBMNH 24709" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Weld&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Dendroica cerulea Ontario" ; Times: 10
+	Query: "SBMNH 24701" ; Times: 2
+	Query: "Green AND Santa Cruz Island AND California" ; Times: 1
+	Query: "Haliaeetus vocifer" ; Times: 1
+	Query: "anhinga rufa" ; Times: 1
+	Query: "distance(location,geopoint(26.539036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Spilogale AND Island NOT Oak NOT FLorida NOT Washington" ; Times: 1
+	Query: "San Miguel Island AND 1878" ; Times: 1
+	Query: "Larus AND San Nicolas Island" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Polioptila)" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "goudotii" ; Times: 1
+	Query: "SBMNH 20321" ; Times: 1
+	Query: "Salal" ; Times: 1
+	Query: "Spilogale AND Island NOT Oak" ; Times: 1
+	Query: "Tyto AND Santa Barbara Island" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 3
+	Query: "Lakeside class:Reptilia county:&#34;san diego&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.467516))&lt;15000" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1905" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.847516))&lt;15000" ; Times: 2
+	Query: "Anacapa AND 1893" ; Times: 2
+	Query: "Myotis AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "masticophis flagellum ruddocki" ; Times: 1
+	Query: "Falco peregrinus AND Santa Cruz Island" ; Times: 1
+	Query: "Green AND &#34;Santa Cruz Island&#34; AND California NOT Burr" ; Times: 1
+	Query: "distance(location,geopoint(27.899036,-115.057516))&lt;15000" ; Times: 1
+	Query: "elf" ; Times: 20
+	Query: "distance(location,geopoint(24.159036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-111.827516))&lt;15000" ; Times: 2
+	Query: "saguinus oedipus" ; Times: 3
+	Query: "SBMNH AND AV AND San Nicolas Island" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:SBMNH" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Antrozous AND Santa Catalina Island" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Anacapa NOT Fish AND 1893" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "Green AND Santa Cruz Island" ; Times: 2
+	Query: "Tyto alba AND Santa Barbara Island" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-114.717516))&lt;15000" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "San Nicolas Island AND AV AND 1945" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Equus AND Santa Barbara Island" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 13
+	Query: "Onychomys torridus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "aguti" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.487516))&lt;15000" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1945" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 3
+	Query: "Asio AND Santa Catalina Island" ; Times: 1
+	Query: "Bassariscus type:specimen stateprovince:&#34;texas&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(28.409036,-112.847516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.487516))&lt;15000" ; Times: 1
+	Query: "San Nicolas Island AND AV" ; Times: 3
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 6
+	Query: "Urocyon AND Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.537516))&lt;15000" ; Times: 4
+	Query: "20587" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.827516))&lt;15000" ; Times: 1
+	Query: "Equus AND San Miguel" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "Miguel Island AND 1879" ; Times: 1
+	Query: "Miguel Island AND 1878" ; Times: 1
+	Query: "Miguel Island AND 1875" ; Times: 1
+	Query: "Miguel Island AND 1874" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "Miguel Island AND 1876" ; Times: 1
+	Query: "149 ONTARIO 1" ; Times: 1
+	Query: "Miguel Island AND 1870" ; Times: 1
+	Query: "Athene AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "Miguel Island AND 1872" ; Times: 1
+	Query: "San Miguel Island AND 1895" ; Times: 1
+	Query: "San Miguel Island AND 1894" ; Times: 1
+	Query: "San Miguel Island AND 1896" ; Times: 1
+	Query: "San Miguel Island AND 1891" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 1
+	Query: "San Miguel Island AND 1893" ; Times: 1
+	Query: "San Miguel Island AND 1892" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.707516))&lt;15000" ; Times: 3
+	Query: "transitionalis" ; Times: 1
+	Query: "Swan Island United States" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "Anacapa AND Egg NOT 1988 NOT 1974" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-113.017516))&lt;15000" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "distance(location,geopoint(28.919036,-113.187516))&lt;15000" ; Times: 1
+	Query: "Eptesicus AND Santa Cruz Island" ; Times: 1
+	Query: "Asio AND Anacapa" ; Times: 1
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 2
+	Query: "dendrocopos medius" ; Times: 2
+	Query: "Elgaria AND Santa Rosa Island" ; Times: 1
+	Query: "Felis AND Barbara Island AND California NOT Mexico" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1908" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1909" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1906" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1907" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1904" ; Times: 1
+	Query: "Semnornis ramphastinus" ; Times: 1
+	Query: "SBMNH AND AV AND San Nicolas Island AND 1903" ; Times: 1
+	Query: "Green AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Athene AND &#34;San Miguel Island&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Felis AND Island" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.537516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(25.859036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Haliaeetus AND Anacapa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 334 (out of 1312 download events in this period)
+Total number of records downloaded: 7388
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 26
+	Country: Panama ; Times: 113
+	Country: India ; Times: 2
+	Country: United States ; Times: 170
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-28 ; Times: 4
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 10
+	Date: 2016-04-04 ; Times: 8
+	Date: 2016-04-21 ; Times: 22
+	Date: 2016-04-20 ; Times: 20
+	Date: 2016-04-23 ; Times: 15
+	Date: 2016-04-22 ; Times: 53
+	Date: 2016-04-25 ; Times: 6
+	Date: 2016-04-24 ; Times: 8
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-26 ; Times: 15
+	Date: 2016-04-08 ; Times: 10
+	Date: 2016-04-27 ; Times: 13
+	Date: 2016-04-18 ; Times: 7
+	Date: 2016-04-19 ; Times: 49
+	Date: 2016-04-14 ; Times: 16
+	Date: 2016-04-15 ; Times: 10
+	Date: 2016-04-16 ; Times: 5
+	Date: 2016-04-17 ; Times: 6
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 5
+	Date: 2016-04-12 ; Times: 16
+	Date: 2016-04-13 ; Times: 6
+	Date: 2016-04-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "ATHERINOPSIDAE" ; Times: 2
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "Ara macao" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "Minnesota Point" ; Times: 1
+	Query: "SOMNIOSIDAE" ; Times: 2
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Salal" ; Times: 1
+	Query: "type:specimen specificepithet:albiventer genus:Tachycineta mappable:1" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "LABRISOMIDAE" ; Times: 1
+	Query: "Passeridae Arizona" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1910 year &lt;= 1920 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "lepus californicus bennettii" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 1
+	Query: "Urocyon littoralis santacruzae" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "Erethizon dorsatum epixanthum" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "anniella pulchra mappable:1" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "ARHYNCHOBATIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Lissodelphis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "terpsiphone mutata" ; Times: 1
+	Query: "dipsosaurus dorsalis mappable:1" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Urocyon littoralis institutioncode:SBMNH" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 6 mappable:1" ; Times: 2
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5 mappable:1" ; Times: 2
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:SBMNH" ; Times: 1
+	Query: "MOLIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Lissodelphis borealis stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "REGALECIDAE" ; Times: 2
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "CHAENOPSIDAE" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "puma concolor california type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP OR institutioncode:SBMNH" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "Lakeside class:Reptilia county:&#34;san diego&#34;" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Dicamptodon ensatus Lake County" ; Times: 1
+
+
+End of report.
