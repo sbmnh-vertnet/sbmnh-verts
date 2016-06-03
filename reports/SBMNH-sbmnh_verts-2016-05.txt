@@ -1,0 +1,274 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 2438
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 58
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 146
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 17
+	Date: 2016-05-14 ; Times: 10
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 3
+	Date: 2016-05-31 ; Times: 77
+	Date: 2016-05-30 ; Times: 9
+	Date: 2016-05-08 ; Times: 10
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-04 ; Times: 5
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-07 ; Times: 7
+	Date: 2016-05-26 ; Times: 7
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-24 ; Times: 6
+	Date: 2016-05-25 ; Times: 8
+	Date: 2016-05-22 ; Times: 20
+	Date: 2016-05-23 ; Times: 7
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 9
+	Date: 2016-05-28 ; Times: 6
+	Date: 2016-05-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "type:specimen order:Chiroptera locality:Palms county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "family:Elapidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Agelaius AND Santa Rosa Island" ; Times: 1
+	Query: "Brachyramphus AND Anacapa Island" ; Times: 1
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Ardea AND Island AND California" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Falco sparverius AND Barbara Island" ; Times: 1
+	Query: "specificepithet:henlei genus:Mustelus" ; Times: 3
+	Query: "Branta canadensis AND Santa Barbara Island" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "genus:Tamias institutioncode:SBMNH" ; Times: 2
+	Query: "specificepithet:exasperata genus:Zapteryx" ; Times: 3
+	Query: "Pelecanus AND San Miguel Island" ; Times: 1
+	Query: "Falco sparverius AND San Nicolas Island" ; Times: 1
+	Query: "Sturnella neglecta AND Santa Cruz Island" ; Times: 2
+	Query: "Calliphlox mitchellii" ; Times: 1
+	Query: "genus:peromyscus locality:anacapa" ; Times: 1
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "Pelecanus AND Anacapa AND 1922" ; Times: 1
+	Query: "Synthliboramphus AND Santa Cruz Island" ; Times: 1
+	Query: "specificepithet:capensis genus:Delphinus" ; Times: 4
+	Query: "Heteroscelus incanus AND San Miguel Island" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "Melanitta perspicillata AND Santa Rosa Island" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Ardea AND Santa Barbara Island" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "rhinobatos productus" ; Times: 4
+	Query: "order:Chiroptera locality:Culver City county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "urocyon littoralis catalinae" ; Times: 1
+	Query: "Selasphorus rufus AND Santa Cruz Island" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "Lampropeltis Zonata pulchra" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; AND Eptesicus" ; Times: 1
+	Query: "Agelaius AND Santa Barbara Island" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND San Miguel" ; Times: 1
+	Query: "Agelaius tricolor AND Santa Rosa Island" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus family:Viperidae county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "distance(location,geopoint(20.827036,-105.509516))&lt;15000" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Sturnella neglecta AND Santa Rosa Island" ; Times: 1
+	Query: "specificepithet:californicus genus:Macrotus county:&#34;San Diego&#34;" ; Times: 2
+	Query: "specificepithet:palmeri genus:Tamias" ; Times: 1
+	Query: "specificepithet:mazatlanus genus:Achirus" ; Times: 3
+	Query: "Ptychoramphus aleuticus AND Santa Barbara Island NOT Mexico" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "Sauromalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Dipodomys heermanni institutioncode:SBMNH" ; Times: 2
+	Query: "crinifer" ; Times: 1
+	Query: "specificepithet:productus genus:Rhinobatos" ; Times: 3
+	Query: "panthera leo" ; Times: 5
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa AND Cruz Island AND 1937" ; Times: 2
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "Rhinoclemmys pulcherrima" ; Times: 2
+	Query: "Phalacrocorax penicillatus AND Santa Rosa Island" ; Times: 1
+	Query: "Sturnella neglecta AND Anacapa Island" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND San Nicolas Island" ; Times: 1
+	Query: "Eremophila alpestris AND San Miguel Island" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "Chen rossii AND Island" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND Anacapa" ; Times: 1
+	Query: "Eremophila alpestris AND San Clemente Island" ; Times: 1
+	Query: "Fratercula AND Miguel Island" ; Times: 2
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 9
+	Query: "Ardea AND Santa Catalina Island" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "Asio AND Catalina" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "calliphlox mitchellii" ; Times: 1
+	Query: "Synthliboramphus AND Santa Cruz" ; Times: 1
+	Query: "Cerorhinca monocerata AND San Nicolas Island" ; Times: 1
+	Query: "Falco sparverius AND Santa Catalina Island" ; Times: 1
+	Query: "genus:Sorex county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; AND 1941" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND Santa Cruz Island" ; Times: 1
+	Query: "kern river anniella" ; Times: 1
+	Query: "Fratercula corniculata AND Island NOT Alaska" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 4
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "masticophis fuliginosus" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 3
+	Query: "Anas AND Santa Rosa Island" ; Times: 2
+	Query: "Black-headed Bunting" ; Times: 2
+	Query: "distance(location,geopoint(20.549036,-105.407516))&lt;15000" ; Times: 1
+	Query: "Sturnella neglecta AND San Nicolas Island" ; Times: 1
+	Query: "Megaceryle AND Island" ; Times: 1
+	Query: "genus:Balaenoptera county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Aechmophorus occidentalis AND Santa Barbara Island" ; Times: 1
+	Query: "Cerorhinca monocerata AND Santa Barbara Island" ; Times: 1
+	Query: "order:Chiroptera locality:Palms county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 8
+	Query: "Anacapa AND 1942" ; Times: 1
+	Query: "kern anniella" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 2
+	Query: "Phalacrocorax penicillatus AND Anacapa" ; Times: 1
+	Query: "Falco sparverius AND Rosa Island" ; Times: 1
+	Query: "monocerata AND Nicolas Island" ; Times: 1
+	Query: "Sturnella neglecta AND Santa Barbara Island" ; Times: 1
+	Query: "Cebus Panama" ; Times: 1
+	Query: "Falco columbarius AND Santa Barbara Island" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 327 download events in this period)
+Total number of records downloaded: 6675
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 80
+	Country: China ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-01 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-14 ; Times: 3
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 8
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 56
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-13 ; Times: 4
+	Date: 2016-05-28 ; Times: 4
+	Date: 2016-05-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "gasterosteus" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "genus:myrmecophaga mappable:1" ; Times: 1
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 3
+	Query: "python molurus" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "masticophis fuliginosus" ; Times: 1
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "type:specimen order:Chiroptera locality:Palms county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "order:Chiroptera locality:Culver City county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Antrozous county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Peromyscus" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "striata stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 1
+	Query: "family:Atherinopsidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Eurycea" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "sauromalus ater county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
