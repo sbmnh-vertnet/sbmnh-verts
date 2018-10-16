@@ -1,0 +1,593 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 518
+Number of records retrieved in searches: 1724
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 31
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: United Kingdom ; Times: 261
+	Country: Norway ; Times: 4
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 186
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 6
+	Date: 2018-05-29 ; Times: 8
+	Date: 2018-05-20 ; Times: 5
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 18
+	Date: 2018-05-24 ; Times: 13
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-27 ; Times: 21
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 21
+	Date: 2018-05-04 ; Times: 102
+	Date: 2018-05-05 ; Times: 171
+	Date: 2018-05-02 ; Times: 10
+	Date: 2018-05-03 ; Times: 5
+	Date: 2018-05-01 ; Times: 7
+	Date: 2018-05-08 ; Times: 6
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-31 ; Times: 6
+	Date: 2018-05-30 ; Times: 5
+	Date: 2018-05-15 ; Times: 9
+	Date: 2018-05-14 ; Times: 8
+	Date: 2018-05-17 ; Times: 19
+	Date: 2018-05-16 ; Times: 16
+	Date: 2018-05-11 ; Times: 5
+	Date: 2018-05-10 ; Times: 5
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 6
+	Date: 2018-05-19 ; Times: 18
+	Date: 2018-05-18 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:monachus genus:Myiopsitta mappable:1" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Xiphorhynchus" ; Times: 1
+	Query: "specificepithet:nigrocincta genus:Tangara" ; Times: 1
+	Query: "specificepithet:certhia genus:Dendrocolaptes" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Dendrocincla" ; Times: 1
+	Query: "specificepithet:erythropygius genus:Cnemarchus" ; Times: 1
+	Query: "specificepithet:immaculata genus:Myrmeciza" ; Times: 1
+	Query: "specificepithet:calopterus genus:Poecilotriccus" ; Times: 1
+	Query: "specificepithet:cayana genus:Cotinga" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Hemithraupis" ; Times: 1
+	Query: "distance(location,geopoint(43.9584463493511,-95.1858499928992))&lt;39197" ; Times: 1
+	Query: "specificepithet:fasciata genus:Patagioenas continent:South America" ; Times: 1
+	Query: "specificepithet:unicolor genus:Thamnophilus" ; Times: 1
+	Query: "distance(location,geopoint(43.3984812210001,-95.150234134))&lt;22083" ; Times: 2
+	Query: "specificepithet:schistaceus genus:Atlapetes" ; Times: 1
+	Query: "specificepithet:frantzii genus:Elaenia" ; Times: 1
+	Query: "specificepithet:bernardi genus:Sakesphorus" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "specificepithet:pareola genus:Chiroxiphia" ; Times: 1
+	Query: "specificepithet:melanicterus genus:Cacicus" ; Times: 1
+	Query: "specificepithet:isabellae genus:Iodopleura" ; Times: 1
+	Query: "specificepithet:poecilocercus genus:Mecocerculus" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:Mimus" ; Times: 1
+	Query: "specificepithet:montana genus:Buthraupis" ; Times: 1
+	Query: "specificepithet:cinereus genus:Ptilogonys" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 5
+	Query: "specificepithet:flammulatus genus:Thripadectes" ; Times: 1
+	Query: "specificepithet:foetidus genus:Gymnoderus" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "specificepithet:penduliger genus:Cephalopterus" ; Times: 1
+	Query: "specificepithet:holochlora genus:Xenopipo" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "specificepithet:labradorides genus:Tangara" ; Times: 1
+	Query: "specificepithet:chrysocephalus genus:Myiodynastes" ; Times: 1
+	Query: "specificepithet:alpinus genus:Muscisaxicola" ; Times: 1
+	Query: "specificepithet:merriami parvus genus:dipodomys" ; Times: 1
+	Query: "class:aves country:&#34;mozambique&#34; year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:myotherinus genus:Myrmoborus" ; Times: 1
+	Query: "specificepithet:formosa genus:Calocitta" ; Times: 1
+	Query: "specificepithet:vociferans genus:Lipaugus" ; Times: 1
+	Query: "genus:Rhea" ; Times: 1
+	Query: "specificepithet:splendens genus:Corvus mappable:1" ; Times: 1
+	Query: "specificepithet:bambla genus:Microcerculus" ; Times: 1
+	Query: "specificepithet:turcosa genus:Cyanolyca" ; Times: 1
+	Query: "specificepithet:nigricapillus genus:Thryothorus" ; Times: 1
+	Query: "specificepithet:unirufa genus:Synallaxis" ; Times: 1
+	Query: "specificepithet:vassorii genus:Tangara" ; Times: 1
+	Query: "specificepithet:souleyetii genus:Lepidocolaptes" ; Times: 1
+	Query: "specificepithet:rufescens family:Ardeidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flavigaster genus:Xiphorhynchus" ; Times: 1
+	Query: "specificepithet:peruviana genus:Conopophaga" ; Times: 1
+	Query: "specificepithet:purpurata genus:Querula" ; Times: 1
+	Query: "specificepithet:belliana genus:Kinixys" ; Times: 3
+	Query: "aepyornis" ; Times: 4
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "specificepithet:humeralis genus:Diglossa" ; Times: 1
+	Query: "specificepithet:superciliaris genus:Hemispingus" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:Myioborus" ; Times: 1
+	Query: "specificepithet:aurita genus:Conopophaga" ; Times: 1
+	Query: "specificepithet:euophrys genus:Thryothorus" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "specificepithet:savannarum genus:Ammodramus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:leucostigma genus:Schistocichla" ; Times: 1
+	Query: "vntype:specimen (Pan troglodytes)" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Hylophilus" ; Times: 1
+	Query: "urubitinga" ; Times: 1
+	Query: "specificepithet:montezuma genus:Psarocolius" ; Times: 1
+	Query: "alectoris rufa" ; Times: 1
+	Query: "specificepithet:ornatus genus:Myiotriccus" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra" ; Times: 1
+	Query: "specificepithet:punctata genus:Tangara" ; Times: 1
+	Query: "specificepithet:leucopterus genus:Atlapetes" ; Times: 1
+	Query: "specificepithet:lafresnayii genus:Diglossa" ; Times: 1
+	Query: "specificepithet:surinamus genus:Tachyphonus" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Pheucticus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;alpine&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana institutioncode:SBMNH" ; Times: 3
+	Query: "specificepithet:leucaspis genus:Gymnopithys" ; Times: 1
+	Query: "specificepithet:tschudii genus:Ampelioides" ; Times: 1
+	Query: "distance(location,geopoint(42.5689265032855,-90.6889959625))&lt;12926" ; Times: 2
+	Query: "specificepithet:chilensis genus:Tangara" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:SBMNH" ; Times: 3
+	Query: "specificepithet:leuconota genus:Pyriglena" ; Times: 1
+	Query: "specificepithet:phaeocephalus genus:Myiarchus" ; Times: 1
+	Query: "specificepithet:rufivirgatus genus:Arremonops" ; Times: 1
+	Query: "distance(location,geopoint(43.7794818444475,-94.0487547757475))&lt;9867" ; Times: 2
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "genus:dipodomys catalognumber:7040" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "specificepithet:arthus genus:Tangara" ; Times: 1
+	Query: "specificepithet:saturata genus:Euphonia" ; Times: 1
+	Query: "specificepithet:delatrii genus:Tachyphonus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:fumicolor genus:Ochthoeca" ; Times: 1
+	Query: "specificepithet:ultramarina genus:Aphelocoma" ; Times: 1
+	Query: "specificepithet:sitticolor genus:Conirostrum" ; Times: 1
+	Query: "distance(location,geopoint(45.447436005,-86.8329547574999))&lt;20809" ; Times: 2
+	Query: "specificepithet:spiza genus:Chlorophanes" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:immutabilis family:Diomedeidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:transitionalis genus:Sylvilagus mappable:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:pallatangae genus:Elaenia" ; Times: 1
+	Query: "specificepithet:chopi genus:Gnorimopsar" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Sclerurus" ; Times: 1
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "Carpodacus amplus" ; Times: 20
+	Query: "specificepithet:angustifrons genus:Psarocolius" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "specificepithet:serva genus:Cercomacra" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:SBMNH" ; Times: 4
+	Query: "bogertophis rosaliae" ; Times: 1
+	Query: "Falco catalognumber:3013" ; Times: 1
+	Query: "specificepithet:rufus genus:Furnarius" ; Times: 1
+	Query: "specificepithet:fasciata genus:Atticora" ; Times: 1
+	Query: "distance(location,geopoint(43.5855034415,-88.6414220575))&lt;8668" ; Times: 2
+	Query: "specificepithet:troglodytes genus:Estrilda mappable:1" ; Times: 1
+	Query: "specificepithet:leucosticta genus:Henicorhina" ; Times: 1
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 1
+	Query: "specificepithet:rufimarginatus genus:Herpsilochmus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Hylophilus" ; Times: 1
+	Query: "specificepithet:promeropirhynchus genus:Xiphocolaptes" ; Times: 1
+	Query: "specificepithet:graceannae genus:Icterus" ; Times: 1
+	Query: "specificepithet:grossus genus:Saltator" ; Times: 1
+	Query: "specificepithet:cinereiventris genus:Microbates" ; Times: 1
+	Query: "specificepithet:episcopus genus:Thraupis" ; Times: 1
+	Query: "specificepithet:squamiger genus:Margarornis" ; Times: 1
+	Query: "Sorex lyelli" ; Times: 1
+	Query: "specificepithet:campanisona genus:Myrmothera" ; Times: 1
+	Query: "specificepithet:melanorhynchus genus:Thripadectes" ; Times: 1
+	Query: "specificepithet:mexicana genus:Tangara" ; Times: 1
+	Query: "specificepithet:haplonota genus:Grallaria" ; Times: 1
+	Query: "(&#34;dolly sods&#34;)" ; Times: 1
+	Query: "specificepithet:cantator genus:Hypocnemis" ; Times: 1
+	Query: "distance(location,geopoint(43.9584544995,-95.1857501855))&lt;25378" ; Times: 2
+	Query: "specificepithet:superciliaris genus:Thryothorus" ; Times: 1
+	Query: "specificepithet:rubrirostris genus:Cnemoscopus" ; Times: 1
+	Query: "distance(location,geopoint(44.0128878392582,-94.1287720894129))&lt;40780" ; Times: 1
+	Query: "specificepithet:marginatus genus:Microcerculus" ; Times: 1
+	Query: "specificepithet:chrysopterus genus:Masius" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "distance(location,geopoint(40.3259350065001,-90.098832204))&lt;4130" ; Times: 2
+	Query: "specificepithet:solstitialis genus:Troglodytes" ; Times: 1
+	Query: "Falco peregrinus catalognumber:3014" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:Habia" ; Times: 1
+	Query: "Falco peregrinus catalognumber:3013" ; Times: 1
+	Query: "specificepithet:chlorolepidota genus:Pipreola" ; Times: 1
+	Query: "specificepithet:grayi genus:Turdus" ; Times: 1
+	Query: "specificepithet:moesta genus:Synallaxis" ; Times: 1
+	Query: "specificepithet:fulvus genus:Lanio" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 2
+	Query: "specificepithet:igniventris genus:Anisognathus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Catherpes" ; Times: 1
+	Query: "specificepithet:savannarum genus:Ammodramus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:squamigera genus:Grallaria" ; Times: 1
+	Query: "specificepithet:gularis genus:Icterus" ; Times: 1
+	Query: "specificepithet:rufipectoralis genus:Ochthoeca" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "specificepithet:crinitus genus:Myiarchus stateprovince:&#34;Kansas&#34; year &lt;= 1900" ; Times: 1
+	Query: "genus:Parabuteo stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:multostriata genus:Myrmotherula" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 2
+	Query: "specificepithet:morio genus:Psilorhinus" ; Times: 1
+	Query: "distance(location,geopoint(43.7499802595001,-88.6469025154999))&lt;13262" ; Times: 2
+	Query: "specificepithet:guttatus genus:Xiphorhynchus" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:oseryi genus:Clypicterus" ; Times: 1
+	Query: "specificepithet:torquatus genus:Arremon" ; Times: 1
+	Query: "specificepithet:rufiventris genus:Euphonia" ; Times: 1
+	Query: "specificepithet:menetriesii genus:Myrmotherula" ; Times: 2
+	Query: "distance(location,geopoint(41.115162657804,-89.3887602040832))&lt;14794" ; Times: 1
+	Query: "specificepithet:trochilirostris genus:Campylorhamphus" ; Times: 1
+	Query: "specificepithet:dives genus:Dives" ; Times: 1
+	Query: "specificepithet:excelsior genus:Cinclodes" ; Times: 1
+	Query: "specificepithet:atropileus genus:Hemispingus" ; Times: 1
+	Query: "specificepithet:coronatus genus:Platyrinchus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "specificepithet:graduacauda genus:Icterus" ; Times: 1
+	Query: "specificepithet:krameri genus:Psittacula mappable:1" ; Times: 1
+	Query: "catalognumber:2507 institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:cafer genus:Pycnonotus mappable:1" ; Times: 1
+	Query: "specificepithet:schistaceus genus:Thamnophilus" ; Times: 1
+	Query: "specificepithet:nigrocristatus genus:Basileuterus" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:SBMNH" ; Times: 3
+	Query: "specificepithet:atriceps genus:Saltator" ; Times: 1
+	Query: "specificepithet:bellicosa genus:Sturnella" ; Times: 1
+	Query: "specificepithet:quitensis genus:Grallaria" ; Times: 1
+	Query: "specificepithet:laniirostris genus:Euphonia" ; Times: 1
+	Query: "specificepithet:velia genus:Tangara" ; Times: 1
+	Query: "specificepithet:pileatus genus:Lophotriccus" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "specificepithet:coraya genus:Thryothorus" ; Times: 1
+	Query: "specificepithet:albocristata genus:Sericossypha" ; Times: 1
+	Query: "specificepithet:flammulata genus:Asthenes" ; Times: 1
+	Query: "specificepithet:parzudakii genus:Tangara" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 2
+	Query: "specificepithet:homochrous genus:Pachyramphus" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix mappable:1" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:SBMNH" ; Times: 3
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 2
+	Query: "distance(location,geopoint(43.3984914053276,-95.1502012035874))&lt;35967" ; Times: 1
+	Query: "specificepithet:albinucha genus:Atlapetes" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Grallaria" ; Times: 1
+	Query: "Falco peregrinus catalognumber:3062" ; Times: 1
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 2
+	Query: "specificepithet:astrild genus:Estrilda" ; Times: 1
+	Query: "specificepithet:verticalis genus:Hemispingus" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "specificepithet:xanthogastra genus:Tangara" ; Times: 1
+	Query: "specificepithet:hauxwelli genus:Myrmotherula" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:SBMNH" ; Times: 3
+	Query: "specificepithet:latrans genus:Scytalopus" ; Times: 1
+	Query: "specificepithet:striaticollis genus:Mionectes" ; Times: 1
+	Query: "specificepithet:filicauda genus:Pipra" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Myiozetetes" ; Times: 1
+	Query: "aves charadrius montana" ; Times: 1
+	Query: "specificepithet:latinuchus genus:Atlapetes" ; Times: 1
+	Query: "specificepithet:americana genus:Rhea mappable:1" ; Times: 1
+	Query: "specificepithet:jocosus genus:Pycnonotus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereum genus:Todirostrum" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "genus:Gambelia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:pallidinucha genus:Atlapetes" ; Times: 1
+	Query: "specificepithet:dryas genus:Catharus" ; Times: 1
+	Query: "specificepithet:colonus genus:Colonia" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "specificepithet:carbo genus:Ramphocelus" ; Times: 1
+	Query: "specificepithet:ruficervix genus:Tangara" ; Times: 1
+	Query: "specificepithet:sulphureipygius genus:Myiobius" ; Times: 1
+	Query: "specificepithet:brunneinucha genus:Arremon" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:maynana genus:Cotinga" ; Times: 1
+	Query: "specificepithet:californica genus:Callipepla mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:lacrymiger genus:Lepidocolaptes" ; Times: 1
+	Query: "specificepithet:bidentata genus:Piranga" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "specificepithet:cincta genus:Dichrozona" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Henicorhina" ; Times: 1
+	Query: "genus:Phaethon stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:aethiops genus:Thamnophilus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Cinclus" ; Times: 1
+	Query: "specificepithet:azarae genus:Synallaxis" ; Times: 1
+	Query: "specificepithet:cristatus genus:Tachyphonus" ; Times: 1
+	Query: "specificepithet:somptuosus genus:Anisognathus" ; Times: 1
+	Query: "specificepithet:fulvipectus genus:Rhynchocyclus" ; Times: 1
+	Query: "specificepithet:reevesii genus:Syrmaticus mappable:1" ; Times: 6
+	Query: "specificepithet:vitiosus genus:Lophotriccus" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus mappable:1" ; Times: 1
+	Query: "specificepithet:naevia genus:Sclateria" ; Times: 1
+	Query: "specificepithet:gujanensis genus:Cyclarhis" ; Times: 1
+	Query: "specificepithet:nigrescens genus:Turdus" ; Times: 1
+	Query: "specificepithet:riefferii genus:Chlorornis" ; Times: 1
+	Query: "specificepithet:microsoma order:Procellariiformes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.779212493,-95.2178509615))&lt;17306" ; Times: 2
+	Query: "specificepithet:cinerascens genus:Cercomacra" ; Times: 1
+	Query: "specificepithet:albicollis genus:Turdus" ; Times: 1
+	Query: "distance(location,geopoint(43.5272107798635,-95.104608857))&lt;18048" ; Times: 2
+	Query: "specificepithet:arcuata genus:Pipreola" ; Times: 1
+	Query: "specificepithet:erythropygius genus:Xiphorhynchus" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:Euphonia" ; Times: 1
+	Query: "specificepithet:rufipectus genus:Formicarius" ; Times: 1
+	Query: "specificepithet:lineatus genus:Cymbilaimus" ; Times: 1
+	Query: "specificepithet:rufula genus:Grallaria" ; Times: 1
+	Query: "specificepithet:saturninus genus:Mimus" ; Times: 1
+	Query: "specificepithet:major genus:Taraba" ; Times: 1
+	Query: "specificepithet:bulleri family:Procellariidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Peucedramus" ; Times: 1
+	Query: "specificepithet:luctuosus genus:Tachyphonus" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Saltator" ; Times: 1
+	Query: "specificepithet:minor genus:Pachyramphus" ; Times: 1
+	Query: "specificepithet:unirufa genus:Cinnycerthia" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "columba plumbea" ; Times: 3
+	Query: "Garrulax sannio" ; Times: 2
+	Query: "specificepithet:miniatus genus:Myioborus" ; Times: 1
+	Query: "specificepithet:eximia genus:Buthraupis" ; Times: 1
+	Query: "Saguinus nigricollis" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "specificepithet:hypopyrra genus:Laniocera" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 1
+	Query: "specificepithet:oleagineus genus:Mionectes" ; Times: 1
+	Query: "specificepithet:albifrons genus:Pithys" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "rougetius vntype:specimen" ; Times: 2
+	Query: "Elaenia martinica" ; Times: 4
+	Query: "dipodomys merriami parvus" ; Times: 2
+	Query: "distance(location,geopoint(43.6738092305001,-93.9502987805))&lt;29164" ; Times: 2
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;San Diego&#34;" ; Times: 2
+	Query: "Synthliboramphus craveri" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 2
+	Query: "specificepithet:mentalis genus:Dysithamnus" ; Times: 1
+	Query: "specificepithet:nigrescens genus:Cercomacra" ; Times: 1
+	Query: "specificepithet:leucotis genus:Vireolanius" ; Times: 1
+	Query: "specificepithet:striaticollis genus:Myiotheretes" ; Times: 1
+	Query: "specificepithet:diadema genus:Ochthoeca" ; Times: 1
+	Query: "specificepithet:callophrys genus:Tangara" ; Times: 1
+	Query: "specificepithet:nigricauda genus:Myrmeciza" ; Times: 1
+	Query: "specificepithet:cassinii genus:Mitrospingus" ; Times: 1
+	Query: "specificepithet:plumbea genus:Polioptila" ; Times: 1
+	Query: "distance(location,geopoint(43.7794818444475,-94.1929983009111))&lt;6933" ; Times: 2
+	Query: "specificepithet:arremonops genus:Oreothraupis" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Euphonia" ; Times: 1
+	Query: "Icteria virens augusta georgia" ; Times: 1
+	Query: "specificepithet:lacrymosus genus:Anisognathus" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "class:amphibia county:&#34;Imperial&#34;" ; Times: 1
+	Query: "specificepithet:longicauda genus:Deconychura" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:SBMNH" ; Times: 5
+	Query: "specificepithet:cristatellus genus:Acridotheres mappable:1" ; Times: 1
+	Query: "specificepithet:fuscater genus:Turdus" ; Times: 1
+	Query: "specificepithet:nigrogularis genus:Ramphocelus" ; Times: 1
+	Query: "specificepithet:warszewiczi genus:Dives" ; Times: 1
+	Query: "specificepithet:decumanus genus:Psarocolius" ; Times: 1
+	Query: "specificepithet:caesius genus:Thamnomanes" ; Times: 1
+	Query: "specificepithet:ruficapilla genus:Grallaria" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(41.0082879640365,-89.3925110450531))&lt;13315" ; Times: 1
+	Query: "specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+	Query: "specificepithet:erythrocephala genus:Pipra" ; Times: 1
+	Query: "specificepithet:schrankii genus:Tangara" ; Times: 1
+	Query: "Nucifraga INdia" ; Times: 1
+	Query: "specificepithet:taeniata genus:Dubusia" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:nengeta genus:Fluvicola" ; Times: 1
+	Query: "genus:Semicossyphus" ; Times: 1
+	Query: "specificepithet:quixensis genus:Microrhopias" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon institutioncode:SBMNH" ; Times: 2
+	Query: "specificepithet:arada genus:Cyphorhinus" ; Times: 1
+	Query: "specificepithet:cinnamomeiventris genus:Ochthoeca" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:SBMNH" ; Times: 3
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 2
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:gigantea genus:Grallaria" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 1
+	Query: "Carpodacus mexicanus amplus" ; Times: 2
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "specificepithet:analis genus:Formicarius" ; Times: 1
+	Query: "Garrulax cineraceus" ; Times: 1
+	Query: "specificepithet:pictus genus:Chrysolophus mappable:1" ; Times: 1
+	Query: "ephippiorhynchus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:ignobilis genus:Turdus" ; Times: 1
+	Query: "distance(location,geopoint(43.6598489215647,-95.6791910181292))&lt;33610" ; Times: 1
+	Query: "specificepithet:conirostris genus:Arremonops" ; Times: 1
+	Query: "Topaza pyra" ; Times: 1
+	Query: "distance(location,geopoint(47.702242836,-96.2875780345))&lt;10334" ; Times: 2
+	Query: "specificepithet:astrild genus:Estrilda mappable:1" ; Times: 1
+	Query: "specificepithet:capitalis genus:Poecilotriccus" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "specificepithet:leucophrys genus:Mecocerculus" ; Times: 1
+	Query: "specificepithet:cinnamomeus genus:Certhiaxis" ; Times: 1
+	Query: "specificepithet:wagleri genus:Psarocolius" ; Times: 1
+	Query: "specificepithet:subulatus genus:Hyloctistes" ; Times: 1
+	Query: "specificepithet:cinctus genus:poecile class:aves" ; Times: 1
+	Query: "cajon wash specificepithet:merriami genus:dipodomys" ; Times: 2
+	Query: "Phaethornis griseogularis" ; Times: 2
+	Query: "specificepithet:albilatera genus:Diglossa" ; Times: 1
+	Query: "specificepithet:lineata genus:Dacnis" ; Times: 1
+	Query: "specificepithet:aurantiirostris genus:Arremon" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria" ; Times: 1
+	Query: "specificepithet:passerinii genus:Ramphocelus" ; Times: 1
+	Query: "specificepithet:gyrola genus:Tangara" ; Times: 1
+	Query: "specificepithet:manacus genus:Manacus" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "specificepithet:nuttingi genus:Myiarchus" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Cyanerpes" ; Times: 1
+	Query: "specificepithet:brachyura genus:Synallaxis" ; Times: 1
+	Query: "specificepithet:luteoviridis genus:Basileuterus" ; Times: 1
+	Query: "Campephaga flava" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pipilo county:&#34;Tulare&#34;" ; Times: 1
+	Query: "specificepithet:pyrrhophia genus:Cranioleuca" ; Times: 1
+	Query: "Falco peregrinus catalognumber:21304" ; Times: 1
+	Query: "specificepithet:cyanicollis genus:Tangara" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 2
+	Query: "specificepithet:nobilis genus:Chamaeza" ; Times: 1
+	Query: "specificepithet:abeillei genus:Arremon" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "specificepithet:torqueola genus:Sporophila" ; Times: 1
+	Query: "specificepithet:malacca genus:Lonchura" ; Times: 1
+	Query: "specificepithet:jucunda genus:Pipreola" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Tiaris" ; Times: 1
+	Query: "specificepithet:orthonyx genus:Acropternis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Serpophaga" ; Times: 1
+	Query: "pygmeus" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "specificepithet:laevis genus:Xenopus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Myrmoborus" ; Times: 1
+	Query: "specificepithet:brachyura genus:Myrmotherula" ; Times: 1
+	Query: "specificepithet:nigricapillus genus:Formicarius" ; Times: 1
+	Query: "specificepithet:martinica genus:Elaenia" ; Times: 1
+	Query: "cajon wash specificepithet:merriami genus:dipodomys year &gt;= 1909 year &lt;= 2008" ; Times: 1
+	Query: "specificepithet:torquata genus:Myrmornis" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Rhynchocyclus" ; Times: 1
+	Query: "specificepithet:maculirostris genus:Turdus" ; Times: 1
+	Query: "specificepithet:hypoxantha genus:Hypocnemis" ; Times: 1
+	Query: "specificepithet:triangularis genus:Xiphorhynchus" ; Times: 1
+	Query: "specificepithet:infuscatus genus:Automolus" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Cinclus" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis" ; Times: 1
+	Query: "distance(location,geopoint(43.749976328584,-88.6470217159059))&lt;26905" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:dimidiatus genus:Ramphocelus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:pusillus genus:Campylorhamphus" ; Times: 1
+	Query: "Heliodoxa aurescens" ; Times: 1
+	Query: "specificepithet:flaveola genus:Sicalis" ; Times: 1
+	Query: "specificepithet:gularis genus:Hellmayrea" ; Times: 1
+	Query: "specificepithet:murina genus:Notiochelidon" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciata genus:Patagioenas continent:South America" ; Times: 1
+	Query: "specificepithet:galericulata genus:Aix mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1178 download events in this period)
+Total number of records downloaded: 2888
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 24
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 11
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 6
+	Date: 2018-05-30 ; Times: 5
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-18 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Los angeles&#34;" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "genus:Aquila county:&#34;San Diego&#34; stateprovince:&#34;CALIFORNIA&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "brunneinucha" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "gulf of california class:aves year &lt;= 1960" ; Times: 1
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "elephant vntype:specimen (Uganda)" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "Culicicapa ceylonensis country:&#34;India&#34;" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "Carpodacus amplus" ; Times: 2
+	Query: "ensatina" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Heliodoxa aurescens" ; Times: 2
+	Query: "icterus gularis" ; Times: 1
+	Query: "Synthliboramphus craveri" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "class:amphibia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "puffinus creatopus" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "Pooecetes gramineus affinis" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
