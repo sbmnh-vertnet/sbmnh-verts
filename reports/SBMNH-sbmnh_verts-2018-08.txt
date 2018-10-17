@@ -1,0 +1,342 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 316
+Number of records retrieved in searches: 3563
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Canada ; Times: 7
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 260
+	Country: Germany ; Times: 6
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 4
+	Date: 2018-08-31 ; Times: 8
+	Date: 2018-08-18 ; Times: 15
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-16 ; Times: 5
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-14 ; Times: 4
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-12 ; Times: 6
+	Date: 2018-08-13 ; Times: 4
+	Date: 2018-08-10 ; Times: 116
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-02 ; Times: 8
+	Date: 2018-08-08 ; Times: 14
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-17 ; Times: 6
+	Date: 2018-08-27 ; Times: 10
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-09 ; Times: 17
+	Date: 2018-08-22 ; Times: 20
+	Date: 2018-08-21 ; Times: 9
+	Date: 2018-08-20 ; Times: 14
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-04 ; Times: 10
+	Date: 2018-08-07 ; Times: 5
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 9
+	Date: 2018-08-29 ; Times: 4
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oxybelis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "sterna aleutica" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:scapanus county:&#34;humboldt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:otus" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "year &gt;= 1882 year &lt;= 1882 institutioncode:SBMNH" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "class:mammalia county:orange stateprovince:&#34;california&#34; reithrodontomys" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 7
+	Query: "21408" ; Times: 1
+	Query: "versicolor wall" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Puma concolor 1964" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "Sterna acuticauda" ; Times: 6
+	Query: "Ara macao" ; Times: 2
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898 startdayofyear &gt;= 174 enddayofyear &gt;= 174" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "class:mammalia locality:santa catalina stateprovince:&#34;california&#34; year &gt;= 1985" ; Times: 1
+	Query: "tamias obscurus distance(location,geopoint(33.62501199382827,-116.56209940432336))&lt;100000" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;Orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:grammacus genus:Chondestes year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "25211" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Aimophila order:Passeriformes county:&#34;Orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:23463 institutioncode:SBMNH" ; Times: 1
+	Query: "Pycnonotus xanthopygos" ; Times: 1
+	Query: "Glaucomys sabrinus oregonensis" ; Times: 1
+	Query: "locality:sand creek stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "tamias obscurus" ; Times: 1
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 3
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 3
+	Query: "country:Ecuador scientificname:Choloepus didactylus " ; Times: 2
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 3
+	Query: "specificepithet:ruficeps genus:Aimophila order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "falco biarmicus" ; Times: 6
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "gbifdatasetid:75018539-6328-41de-b875-7c2e61dc1635" ; Times: 1
+	Query: "elaenia brachyptera" ; Times: 2
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "Varanus salvator vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma insularis 1915" ; Times: 1
+	Query: "Aphelocoma insularis 1917" ; Times: 1
+	Query: "Aphelocoma insularis 1916" ; Times: 1
+	Query: "Aphelocoma insularis 1919" ; Times: 1
+	Query: "Aphelocoma insularis 1918" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "coeligena violifer" ; Times: 2
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 3
+	Query: "order:Cetacea institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "empidonax traillii extimus" ; Times: 1
+	Query: "Mustela eversmanii" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "doryfera johannae" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "class:mammalia locality:santa catalina stateprovince:&#34;california&#34; sorex" ; Times: 1
+	Query: "class:aves (chuuk)" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:biarmicus genus:falco" ; Times: 1
+	Query: "santa catalina island class:mammalia" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "porphyrio poliocephalus" ; Times: 1
+	Query: "county:&#34;Pottawattamie&#34; stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "rollandia rolland rolland" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus year &gt;= 1922 year &lt;= 1922" ; Times: 1
+	Query: "vntype:specimen specificepithet:rochii genus:cuculus year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 2
+	Query: "24921" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "specificepithet:lapponica class:aves stateprovince:&#34;alaska&#34; year &gt;= 1952 year &lt;= 1952" ; Times: 1
+	Query: "specificepithet:henshawi genus:xantusia county:&#34;riverside&#34; year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "Aphelocoma insularis 1932" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND chamek)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "bufo alvarius" ; Times: 4
+	Query: "specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera leo mappable:1" ; Times: 5
+	Query: "johannae" ; Times: 3
+	Query: "Pyromelana" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 4
+	Query: "specificepithet:merriami genus:Tamias (Jacinto)" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "os 350" ; Times: 2
+	Query: "Varanus salvator" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 2
+	Query: "spizella caurina" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cheniana genus:mirafra year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "Aphelocoma insularis 1922" ; Times: 1
+	Query: "tamias obscurus distance(location,geopoint(33.69861370916868,-116.62801737307336))&lt;100000" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(32.89470627391204,-80.46254376042259))&lt;100000" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Xanthichthys mento" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "class:AVES country:&#34;South Africa&#34; year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "specificepithet:Spencei genus:Heliangelus" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Lanthanotus" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 3
+	Query: "Plectrophenax nivalis insulae" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 121
+	Query: "Eudyptula albosignata" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(31.293937179208516,-76.90297344792259))&lt;467941.1417995581" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 116 (out of 1416 download events in this period)
+Total number of records downloaded: 3771
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 32
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 45
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Spain ; Times: 16
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-19 ; Times: 12
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-23 ; Times: 6
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 13
+	Date: 2018-08-13 ; Times: 6
+	Date: 2018-08-10 ; Times: 9
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-26 ; Times: 2
+	Date: 2018-08-25 ; Times: 3
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-09 ; Times: 18
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 5
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera" ; Times: 1
+	Query: "sterna aleutica" ; Times: 3
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:otus" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 2
+	Query: "class:reptilia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "gambelia" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.15262612841528,-78.30922344792259))&lt;467941.1417995581" ; Times: 2
+	Query: "hELODERMA" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "falco biarmicus" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Myotis dasycneme" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Glaucomys sabrinus vntype:specimen stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(32.89470627391204,-80.46254376042259))&lt;100000" ; Times: 2
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "great tailed grackle" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Reptilia Jalisco" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 2
+	Query: "specificepithet:alexandrinus genus:charadrius county:&#34;orange&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "genus:Scaphiodontophis" ; Times: 1
+
+
+End of report.
