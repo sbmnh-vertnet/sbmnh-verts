@@ -1,0 +1,744 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 720
+Number of records retrieved in searches: 9191
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 51
+	Country: Canada ; Times: 4
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Peru ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 17
+	Country: Nepal ; Times: 8
+	Country: India ; Times: 9
+	Country: Mexico ; Times: 12
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 14
+	Country: Sweden ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Vietnam ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 582
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Benin ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 19
+	Date: 2019-07-18 ; Times: 9
+	Date: 2019-07-19 ; Times: 75
+	Date: 2019-07-08 ; Times: 53
+	Date: 2019-07-12 ; Times: 90
+	Date: 2019-07-13 ; Times: 4
+	Date: 2019-07-10 ; Times: 16
+	Date: 2019-07-11 ; Times: 16
+	Date: 2019-07-16 ; Times: 15
+	Date: 2019-07-17 ; Times: 11
+	Date: 2019-07-14 ; Times: 5
+	Date: 2019-07-15 ; Times: 26
+	Date: 2019-07-02 ; Times: 29
+	Date: 2019-07-03 ; Times: 10
+	Date: 2019-07-23 ; Times: 22
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-21 ; Times: 9
+	Date: 2019-07-20 ; Times: 11
+	Date: 2019-07-27 ; Times: 2
+	Date: 2019-07-26 ; Times: 54
+	Date: 2019-07-25 ; Times: 10
+	Date: 2019-07-24 ; Times: 40
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-29 ; Times: 11
+	Date: 2019-07-28 ; Times: 4
+	Date: 2019-07-05 ; Times: 19
+	Date: 2019-07-04 ; Times: 20
+	Date: 2019-07-07 ; Times: 13
+	Date: 2019-07-06 ; Times: 14
+	Date: 2019-07-31 ; Times: 107
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:myotis order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:eremicus genus:Peromyscus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Thraupis bonariensis mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "Euphonia laniirostris mappable:1" ; Times: 1
+	Query: "Euphonia rufiventris mappable:1" ; Times: 1
+	Query: "Anas fulvigula mappable:1" ; Times: 1
+	Query: "specificepithet:leucurus genus:ammospermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Passerella iliaca AND Santa Catalina Island NOT Holmgren" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:orcinus order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 2
+	Query: "Pteroglossus castanotis mappable:1" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 3
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Sclateria specificepithet:naevia" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 2
+	Query: "Phoebastria irrorata" ; Times: 1
+	Query: "genus:ursus order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "eubalaena" ; Times: 1
+	Query: "genus:eptesicus order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "Myrmecophaga tridactyla mappable:1" ; Times: 1
+	Query: "Zonotrichia leucophrys AND Santa Rosa Island" ; Times: 1
+	Query: "Polioptila californica mappable:1" ; Times: 4
+	Query: "(&#34;Turtle Creek&#34;)" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Wyoming&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:nigrescens genus:cercomacra" ; Times: 1
+	Query: "phoebastria irrorata" ; Times: 4
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus mappable:1" ; Times: 1
+	Query: "genus:arctocephalus order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Tersina viridis mappable:1" ; Times: 1
+	Query: "genus:Saimiri specificepithet:oerstedii" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "genus:spilogale order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 4
+	Query: "vntype:specimen specificepithet:torquatus genus:lanioturdus" ; Times: 6
+	Query: "Turdus migratorius AND Santa Rosa Island" ; Times: 3
+	Query: "29240" ; Times: 3
+	Query: "specificepithet:panamintinus genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:batis" ; Times: 4
+	Query: "genus:phoca order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Tangara punctata mappable:1" ; Times: 1
+	Query: "Vulpes velox mappable:1" ; Times: 2
+	Query: "Eremophila alpestris strigata mappable:1" ; Times: 5
+	Query: "specificepithet:macrotis genus:Nyctinomops class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 2
+	Query: "specificepithet:beecheyi genus:spermophilus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Chlorostilbon specificepithet:mellisugus" ; Times: 1
+	Query: "Passerella iliaca AND Santa Catalina Island NOT Holmgren NOT Grinnell NOT Stager" ; Times: 1
+	Query: "genus:Nilaus specificepithet:afer" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Oceanodroma tristrami" ; Times: 3
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 1
+	Query: "Turdus migratorius AND Santa Barbara Island" ; Times: 1
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 1
+	Query: "genus:myotis order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:panamintinus genus:dipodomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coccyzus americanus occidentalis mappable:1" ; Times: 1
+	Query: "genus:capra class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:eumops order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Tyto alba AND Rosa Island" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "specificepithet:audubonii genus:Sylvilagus class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Sitta AND San Nicolas Island" ; Times: 1
+	Query: "Rana aurora draytonii" ; Times: 2
+	Query: "23148" ; Times: 1
+	Query: "Poicephalus flavifrons" ; Times: 1
+	Query: "genus:Batrachoseps specificepithet:pacificus" ; Times: 1
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "family:Alcidae locality:coronados country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 1
+	Query: "genus:eptesicus order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Tyrannus savana mappable:1" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "genus:rattus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:starksi" ; Times: 1
+	Query: "Icterus chrysocephalus mappable:1" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus year &gt;= 1922 year &lt;= 1922" ; Times: 1
+	Query: "genus:sigmodon order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "genus:didelphis class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Wyoming&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "genus:Ochthoeca specificepithet:cinnamomeiventris" ; Times: 1
+	Query: "class:mammalia institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Pandion AND Cedros Island NOT Brown NOT Lamb" ; Times: 1
+	Query: "genus:mephitis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:antrozous order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Psarocolius decumanus mappable:1" ; Times: 1
+	Query: "genus:eptesicus order:chiroptera class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Saltator coerulescens mappable:1" ; Times: 1
+	Query: "genus:plecotus order:chiroptera class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:pipistrellus order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus class:Mammalia county:&#34;San Diego&#34;" ; Times: 2
+	Query: "specificepithet:macrotis genus:neotoma order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Ramphastos cuvieri mappable:1" ; Times: 1
+	Query: "genus:Sporopipes specificepithet:squamifrons" ; Times: 1
+	Query: "Raja binoculata" ; Times: 2
+	Query: "order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Euphonia cyanocephala mappable:1" ; Times: 1
+	Query: "genus:mirounga order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:delphinus order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Santa Cruz Island Reserve" ; Times: 1
+	Query: "Zonata year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "Rana draytonii" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:ornatus genus:Sorex class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:simulans genus:dipodomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:lissodelphis order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:eschrichtius order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "otis tarda" ; Times: 4
+	Query: "Zonotrichia leucophrys AND Anacapa" ; Times: 1
+	Query: "genus:Megaceryle specificepithet:alcyon" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 2
+	Query: "Sitta AND Rosa Island" ; Times: 2
+	Query: "Okara" ; Times: 1
+	Query: "specificepithet:mohavensis genus:spermophilus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Chilara" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "genus:Notiosorex class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Vulpes velox mutica mappable:1" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 1
+	Query: "genus:taxidea order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 2019" ; Times: 2
+	Query: "order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:urocyon order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:monocerata year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "genus:Manacus specificepithet:manacus" ; Times: 1
+	Query: "genus:Chelus" ; Times: 1
+	Query: "Tachyphonus surinamus mappable:1" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "genus:spilogale order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Passerella iliaca AND Santa Catalina Island NOT Holmgren NOT Grinnell" ; Times: 1
+	Query: "Sitta carolinensis AND Island" ; Times: 1
+	Query: "Turdus ignobilis mappable:1" ; Times: 1
+	Query: "genus:sylvilagus order:lagomorpha class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 1
+	Query: "genus:eptesicus order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Polioptila californica californica mappable:1" ; Times: 4
+	Query: "Raja rhina" ; Times: 3
+	Query: "genus:lynx order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "Passer domesticus AND San Nicolas Island NOT SHeldon" ; Times: 1
+	Query: "Pandion AND Cedros Island" ; Times: 1
+	Query: "specificepithet:sila genus:Gambelia" ; Times: 3
+	Query: "Empidonax traillii extimus mappable:1" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:bassariscus order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Sitta AND Santa Cruz Island" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 1
+	Query: "genus:lynx order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Sorex lyelli" ; Times: 2
+	Query: "genus:grampus order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Maryland&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:cerorhinca year &gt;= 1907 year &lt;= 1907 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "specificepithet:littoralis genus:urocyon order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 2
+	Query: "specificepithet:catta genus:lemur" ; Times: 1
+	Query: "genus:Mitrospingus specificepithet:cassinii" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 18
+	Query: "Sitta AND Santa Cruz Island NOT Holmgren" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 4
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "family:Alcidae class:aves country:&#34;mexico&#34;" ; Times: 3
+	Query: "genus:Antrozous class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Lama" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 2
+	Query: "Tangara mexicana mappable:1" ; Times: 1
+	Query: "Pelecanus occidentalis south carolina" ; Times: 1
+	Query: "genus:myotis order:chiroptera class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "ITS 383" ; Times: 2
+	Query: "order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Tapera naevia mappable:1" ; Times: 4
+	Query: "genus:synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:tadarida order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Charadrius cinctus" ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "sula leucogaster" ; Times: 3
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Thraupis episcopus mappable:1" ; Times: 1
+	Query: "specificepithet:bryanti genus:neotoma order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "genus:mustela order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Saltator maximus mappable:1" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys county:&#34;ventura&#34;" ; Times: 1
+	Query: "Zonotrichia leucophrys AND &#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 3
+	Query: "Brotogeris versicolurus mappable:1" ; Times: 1
+	Query: "Lamna" ; Times: 1
+	Query: "Chlorophanes spiza mappable:1" ; Times: 1
+	Query: "genus:Pteromys" ; Times: 1
+	Query: "genus:Xenopus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sterna antillarum browni mappable:1" ; Times: 2
+	Query: "order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Pandion AND Cedros Island NOT BRown" ; Times: 1
+	Query: "genus:scapanus family:talpidae class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lanthanotus borneensis" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 2
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Urocyon AND Santa Rosa Island" ; Times: 1
+	Query: "Pheucticus aureoventris mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis class:MAMMALIA stateprovince:&#34;new york&#34; year &gt;= 1974" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Tarletonbeania specificepithet:crenularis" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:phocoenoides order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Zonotrichia leucophrys AND San Nicolas Island" ; Times: 1
+	Query: "specificepithet:alticola genus:perognathus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen genus:Gnorimopsar class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:plecotus order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:pipistrellus order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 3
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:californicus genus:chaetodipus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "genus:mustela order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:monocerata year &gt;= 1907 year &lt;= 1907 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "genus:ondatra order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "otis tarda tarda" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Georgia&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "alascensis specificepithet:vulpes genus:Vulpes year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "sorex vagrans paludivagus" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:vulpes class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Paroaria capitata mappable:1" ; Times: 1
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "SBMNH AV 20768" ; Times: 1
+	Query: "SBMNH AV 20769" ; Times: 2
+	Query: "Pseudoseisura gutturalis" ; Times: 1
+	Query: "SBMNH" ; Times: 1
+	Query: "Sicalis luteola mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "Passerella iliaca AND Santa Catalina Island NOT Holmgren NOT Grinnell NOT Stager NOT Judson" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;New Jersey&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Nectarinia violacea" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:spinatus genus:chaetodipus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus didactylus " ; Times: 2
+	Query: "order:lagomorpha class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 4
+	Query: "genus:oryctolagus order:lagomorpha class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Tyto alba AND Miguel Island" ; Times: 1
+	Query: "Tyto alba AND Catalina Island NOT Ecuador" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "gbifdatasetid:75018539-6328-41de-b875-7c2e61dc1635" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Raja inornata" ; Times: 2
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "Rana aurora" ; Times: 2
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:tursiops order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Catharus AND Cruz Island" ; Times: 1
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "upupa epops" ; Times: 9
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "genus:Corythopis" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:urocyon order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:fallax genus:chaetodipus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Polioptila melanura californica mappable:1" ; Times: 4
+	Query: "Ohio vntype:specimen specificepithet:quiscula genus:Quiscalus" ; Times: 1
+	Query: "family:Alcidae locality:san benito country:&#34;mexico&#34;" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "Poecile cinctus" ; Times: 1
+	Query: "genus:zalophus order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Eubalaena" ; Times: 1
+	Query: "SBMNH AV 20772" ; Times: 2
+	Query: "specificepithet:jocosus genus:Pycnonotus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "genus:Rynchops specificepithet:niger" ; Times: 1
+	Query: "genus:spermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Tangara velia mappable:1" ; Times: 1
+	Query: "specificepithet:inornatus genus:perognathus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 2
+	Query: "Cissopis leveriana mappable:1" ; Times: 1
+	Query: "genus:lagenorhynchus order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 4
+	Query: "specificepithet:crinitus genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "cistothorus marianae" ; Times: 1
+	Query: "Cacatua alba mappable:1" ; Times: 1
+	Query: "specificepithet:semirufa genus:Cossypha country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Esacus recurvirostris" ; Times: 2
+	Query: "genus:scapanus class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:vulpes order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:urocyon order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Leuroglossus specificepithet:stilbius" ; Times: 1
+	Query: "Turdus migratorius AND San Nicolas" ; Times: 2
+	Query: "Pseudoleistes virescens mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "Daubentonia" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:urocyon order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:notiosorex class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Sterna antillarum mappable:1" ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:didelphis class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 3
+	Query: "Agapornis taranta" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:formosus genus:chaetodipus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:vulpes order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "Actinemys pallida" ; Times: 1
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Pan specificepithet:troglodytes" ; Times: 1
+	Query: "Cacicus cela mappable:1" ; Times: 1
+	Query: "genus:peromyscus locality:anacapa institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "Catharus ustulatus AND Santa Rosa Island" ; Times: 1
+	Query: "specificepithet:nelsoni genus:ammospermophilus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:penicillatus genus:chaetodipus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Mississippi&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "Ramphocelus carbo mappable:1" ; Times: 1
+	Query: "solanum" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "alascensis specificepithet:vulpes genus:Vulpes AND (NOT FMNH) year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:puma order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Sitta AND Nicolas Island" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Passerella iliaca AND Santa Catalina Island NOT Holmgren NOT Grinnell NOT Stager NOT Judson NOT Dixon" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella country:&#34;canada&#34; month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "bromelia" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 10
+	Query: "specificepithet:griseus genus:sciurus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Tadarida class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "wellesley vntype:specimen locality:Wellesley stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:townsendii class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Urocyon AND Rosa Island" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "genus:Orcinus" ; Times: 2
+	Query: "rhinobothryum" ; Times: 1
+	Query: "genus:Doryfera specificepithet:ludovicae" ; Times: 1
+	Query: "specificepithet:penicillatus genus:chaetodipus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Pandion AND Cedros" ; Times: 1
+	Query: "Kellog" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:multicarinata genus:Elgaria country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:didelphis class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Actinemys" ; Times: 11
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:felis order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 10
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:notiosorex class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Passer domesticus AND San Nicolas Island" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Nandayus specificepithet:nenday" ; Times: 1
+	Query: "genus:Cyanocorax specificepithet:yncas" ; Times: 1
+	Query: "Paroaria coronata mappable:1" ; Times: 1
+	Query: "genus:pipistrellus order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "SBMNH AV 20771" ; Times: 2
+	Query: "SBMNH AV 20770" ; Times: 1
+	Query: "SBMNH AV 20773" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "SBMNH AV 20774" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:taxidea order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:kogia order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "Strix occidentalis mappable:1" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Tachyphonus cristatus mappable:1" ; Times: 1
+	Query: "specificepithet:californicus genus:chaetodipus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Egretta specificepithet:thula" ; Times: 1
+	Query: "genus:phoca order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "solanum species" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Ohio&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:stephensi genus:dipodomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:globicephala order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "rhinobothryum bovallii" ; Times: 1
+	Query: "specificepithet:rufa class:MAMMALIA locality:sequim" ; Times: 1
+	Query: "Cyanerpes caeruleus mappable:1" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:livia genus:columba country:&#34;canada&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:semirufa genus:Cossypha country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "specificepithet:bryanti genus:neotoma order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Vulpes macrotis mutica mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:capensis genus:batis country:&#34;south africa&#34;" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "genus:lasiurus order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;South Dakota&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "Lampropeltis multifasciata" ; Times: 1
+	Query: "genus:scapanus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:australis genus:Ardeotis" ; Times: 1
+	Query: "genus:callorhinus order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Spizocorys conirostris" ; Times: 10
+	Query: "Agapornis roseicollis mappable:1" ; Times: 1
+	Query: "genus:rattus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Pandion AND Island AND Mexico" ; Times: 1
+	Query: "genus:macrotus order:chiroptera class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:torquatus genus:lanioturdus" ; Times: 3
+	Query: "vireo marshall" ; Times: 1
+	Query: "genus:callorhinus order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:thomomys class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "gbifdatasetid:75018539-6328-41de-b875-7c2e61dc1635 procellariiformes" ; Times: 4
+	Query: "specificepithet:littoralis genus:urocyon order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+	Query: "genus:Pellorneum specificepithet:ruficeps" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum" ; Times: 1
+	Query: "genus:pseudorca order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:sigmodon order:rodentia class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Eptesicus class:Mammalia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:inornatus genus:perognathus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 1
+	Query: "Tangara chilensis mappable:1" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "genus:mesoplodon order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 2
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "specificepithet:fallax genus:chaetodipus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:spermophilus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "crax rubra" ; Times: 5
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Ramphocelus nigrogularis mappable:1" ; Times: 1
+	Query: "Passerella iliaca AND Santa Catalina Island" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:spermophilus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 121 (out of 985 download events in this period)
+Total number of records downloaded: 2324
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 73
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 8
+	Country: India ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Peru ; Times: 8
+	Country: Guadeloupe ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-08 ; Times: 5
+	Date: 2019-07-12 ; Times: 8
+	Date: 2019-07-10 ; Times: 4
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-30 ; Times: 11
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-15 ; Times: 4
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-23 ; Times: 22
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 5
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-05 ; Times: 6
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "specificepithet:Hernandesi genus:Phrynosoma" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Colorado&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Macroclemys" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "vntype:specimen specificepithet:torquatus genus:lanioturdus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Smilisca fodiens" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "charina bottae" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "Chamaeleo country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Baja California Sur&#34; continent:America" ; Times: 2
+	Query: "specificepithet:ater genus:Sauromalus" ; Times: 2
+	Query: "Chen canagica" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "family:soricidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "Branta hutchinsii" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;wyoming&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 3
+	Query: "porzana carolina" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+
+
+End of report.
