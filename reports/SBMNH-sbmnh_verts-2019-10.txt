@@ -1,0 +1,699 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 744
+Number of records retrieved in searches: 6658
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Turkey ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 38
+	Country: Unknown ; Times: 25
+	Country: Hungary ; Times: 2
+	Country: India ; Times: 5
+	Country: Cyprus ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 10
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 559
+	Country: New Zealand ; Times: 60
+	Country: Brazil ; Times: 11
+	Country: Benin ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 11
+	Date: 2019-10-08 ; Times: 12
+	Date: 2019-10-21 ; Times: 8
+	Date: 2019-10-20 ; Times: 11
+	Date: 2019-10-27 ; Times: 6
+	Date: 2019-10-26 ; Times: 17
+	Date: 2019-10-25 ; Times: 13
+	Date: 2019-10-22 ; Times: 101
+	Date: 2019-10-01 ; Times: 12
+	Date: 2019-10-03 ; Times: 10
+	Date: 2019-10-02 ; Times: 16
+	Date: 2019-10-05 ; Times: 31
+	Date: 2019-10-04 ; Times: 103
+	Date: 2019-10-07 ; Times: 22
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-23 ; Times: 93
+	Date: 2019-10-24 ; Times: 56
+	Date: 2019-10-29 ; Times: 34
+	Date: 2019-10-18 ; Times: 10
+	Date: 2019-10-19 ; Times: 17
+	Date: 2019-10-12 ; Times: 30
+	Date: 2019-10-13 ; Times: 2
+	Date: 2019-10-10 ; Times: 14
+	Date: 2019-10-11 ; Times: 29
+	Date: 2019-10-16 ; Times: 18
+	Date: 2019-10-31 ; Times: 13
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-15 ; Times: 28
+	Date: 2019-10-28 ; Times: 13
+	Date: 2019-10-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Melanerpes year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad and 1930" ; Times: 1
+	Query: "Empidonax traillii extimus 2014" ; Times: 1
+	Query: "perognathus longimembris brevinasus" ; Times: 2
+	Query: "Empidonax traillii extimus 2016" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND &#34;1897-04-10&#34; NOT &#34;1897-04-09&#34; NOT 1940" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta institutioncode:SBMNH" ; Times: 1
+	Query: "Brachyramphus marmoratus 1977" ; Times: 1
+	Query: "specificepithet:aberti class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Tyrannus vociferans AND Island" ; Times: 2
+	Query: "Reithrodontomys megalotis 2016" ; Times: 5
+	Query: "Reithrodontomys megalotis 2014" ; Times: 1
+	Query: "Fulmarus glacialis AND Nicolas Island" ; Times: 1
+	Query: "genus:Phrynosoma year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island" ; Times: 2
+	Query: "Vireo bellii pusillus 2014" ; Times: 1
+	Query: "Vireo bellii pusillus 2015" ; Times: 1
+	Query: "Vireo bellii pusillus 2016" ; Times: 1
+	Query: "Aechmophorus occidentalis AND Nicolas Island" ; Times: 2
+	Query: "Mycteria americana 1977" ; Times: 1
+	Query: "Mycteria americana 1976" ; Times: 1
+	Query: "Nycticorax AND Island AND Barbara" ; Times: 1
+	Query: "Aeronautes AND &#34;Cruz Island&#34;" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Grinnell NOT Harrison NOT Osburn NOT Wright NOT ROwley" ; Times: 1
+	Query: "sorex cinereus fontinalis" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "Callipepla californica AND Cruz Island NOT Miller NOT Mailliard" ; Times: 1
+	Query: "Empidonax traillii extimus 2015" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 2
+	Query: "specificepithet:mexicana genus:Choeronycteris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Anas acuta AND Rosa Island" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 10
+	Query: "aterrima" ; Times: 1
+	Query: "Drymarchon couperi 2014" ; Times: 1
+	Query: "Puffinus griseus AND Guadalupe" ; Times: 1
+	Query: "Drymarchon couperi 2016" ; Times: 1
+	Query: "Phaethon aethereus AND Isla NOT Nayarit NOT Ecuador" ; Times: 1
+	Query: "Tyrannus verticalis AND Island" ; Times: 1
+	Query: "Anas acuta AND Anacapa" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Dixon" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Poecile rufescens California Humboldt County" ; Times: 1
+	Query: "genus:Pseudacris year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "Apristurus manis" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 17
+	Query: "Melanitta perspicillata AND Rosa Island" ; Times: 1
+	Query: "capito auratus" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Barbara Island" ; Times: 1
+	Query: "Formicarius rufipectus" ; Times: 1
+	Query: "Ambystoma californiense 1995" ; Times: 3
+	Query: "Mustelus californicus" ; Times: 2
+	Query: "Callipepla californica catalinensis AND Rosa" ; Times: 4
+	Query: "Podiceps nigricollis AND Guadalupe" ; Times: 2
+	Query: "Puffinus opisthomelas AND Natividad NOT Anthony AND 1897 NOT Harrison" ; Times: 1
+	Query: "Coccyzus americanus 1975" ; Times: 1
+	Query: "genus:Crotalus county:&#34;santa barbara&#34;" ; Times: 4
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "Anas americana AND Baja" ; Times: 1
+	Query: "Onychomys leucogaster 2016" ; Times: 4
+	Query: "Callipepla californica AND Catalina Island NOT Osburn NOT Wright" ; Times: 1
+	Query: "Nycticorax AND Island AND California" ; Times: 1
+	Query: "Vireo bellii pusillus 1998" ; Times: 1
+	Query: "Sterna maxima AND Island AND California NOT Texas NOT FLorida" ; Times: 1
+	Query: "Vireo bellii pusillus 1991" ; Times: 1
+	Query: "Vireo bellii pusillus 1993" ; Times: 1
+	Query: "SBMNH AND 326 AND Fulmarus" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 4
+	Query: "Gopherus agassizii 1987" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "Gavia immer AND Barbara Island" ; Times: 1
+	Query: "genus:macrotus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Rana draytonii 2003" ; Times: 1
+	Query: "Rana draytonii 2000" ; Times: 1
+	Query: "Rana draytonii 2001" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea county:&#34;santa barbara&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Fulmarus glacialis AND Anacapa" ; Times: 3
+	Query: "Coccyzus americanus 2014" ; Times: 1
+	Query: "nectarinia asiatica" ; Times: 2
+	Query: "Gopherus agassizii 1986" ; Times: 1
+	Query: "Aphelocoma coerulescens 1990" ; Times: 1
+	Query: "Gopherus agassizii 1980" ; Times: 1
+	Query: "Egretta tricolor AND Island AND California NOT Texas" ; Times: 1
+	Query: "Gopherus agassizii 1982" ; Times: 1
+	Query: "Gopherus agassizii 1983" ; Times: 1
+	Query: "Anas americana AND Rosa Island" ; Times: 1
+	Query: "Microtus longicaudus 1990" ; Times: 1
+	Query: "Microtus longicaudus 1991" ; Times: 1
+	Query: "Microtus longicaudus 1993" ; Times: 1
+	Query: "Microtus longicaudus 1998" ; Times: 1
+	Query: "Vireo bellii pusillus 1979" ; Times: 1
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 2
+	Query: "Callipepla californica AND Santa Cruz Island" ; Times: 1
+	Query: "Gavia pacifica AND &#34;Barbara Island&#34;" ; Times: 1
+	Query: "Passerculus sandwichensis AND Rosa Island" ; Times: 1
+	Query: "Anas cyanoptera AND Barbara Island" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "Neotoma cinerea 2014" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Neotoma cinerea 2010" ; Times: 1
+	Query: "Hylophilus olivaceus" ; Times: 4
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "specificepithet:mcallii county:&#34;imperial&#34;" ; Times: 1
+	Query: "Neotoma mexicana 1972" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Reithrodontomys megalotis AND Clemente Island NOT Fish" ; Times: 1
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "specificepithet:canescens genus:eremomela" ; Times: 3
+	Query: "family:Soricidae year &gt;= 1959 year &lt;= 1965 institutioncode:SBMNH" ; Times: 1
+	Query: "Gavia immer AND Baja" ; Times: 1
+	Query: "Eremophila alpestris strigata 2016" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1897" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT CARPENTER NOT YPM NOT Bancroft NOT Harrison" ; Times: 1
+	Query: "Podiceps nigricollis AND Barbara Island" ; Times: 2
+	Query: "specificepithet:lutris genus:Enhydra distance(location,geopoint(28.97520815761375,-115.60777618075849))&lt;496321" ; Times: 2
+	Query: "genus:Buteo year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Notiosorex county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ambystoma californiense 1986" ; Times: 2
+	Query: "toxotes" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea institutioncode:SBMNH" ; Times: 1
+	Query: "Phaethon aethereus AND Island" ; Times: 1
+	Query: "Mola mola mappable:0" ; Times: 10
+	Query: "Thomomys talpoides 2016" ; Times: 1
+	Query: "Alectoris chukar AND Nicolas Island" ; Times: 4
+	Query: "specificepithet:zonata genus:lampropeltis county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus institutioncode:SBMNH" ; Times: 1
+	Query: "Mycteria americana 2014" ; Times: 1
+	Query: "Sterna maxima AND Island AND California" ; Times: 1
+	Query: "locality:el rancho rd" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad and 1897" ; Times: 1
+	Query: "Parmaturus xaniurus" ; Times: 1
+	Query: "Microtus longicaudus 2016" ; Times: 6
+	Query: "Aphelocoma coerulescens 2016" ; Times: 3
+	Query: "Reithrodontomys megalotis 2001" ; Times: 1
+	Query: "specificepithet:gecko genus:gekko country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Callipepla californica AND Rosa Island" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 2
+	Query: "Raja rhina" ; Times: 2
+	Query: "Microtus ochrogaster 2016" ; Times: 2
+	Query: "Vireo bellii pusillus 2001" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Dixon NOT Dickey NOT Gaylord NOT Howell" ; Times: 1
+	Query: "Coccyzus americanus 1997" ; Times: 1
+	Query: "Calypte costae AND Baja" ; Times: 1
+	Query: "Neotoma cinerea 2016" ; Times: 1
+	Query: "Xema sabini continent:America" ; Times: 2
+	Query: "Puffinus opisthomelas AND Natividad NOT Howell NOT Kaeding NOT Anthony AND 1897 NOT Harrison" ; Times: 1
+	Query: "Anas acuta AND Anacapa Island" ; Times: 1
+	Query: "Gopherus agassizii 1979" ; Times: 1
+	Query: "Gopherus agassizii 1978" ; Times: 1
+	Query: "Gopherus agassizii 1991" ; Times: 1
+	Query: "Callipepla californica AND Island" ; Times: 1
+	Query: "Podiceps auritus AND Nicolas Island" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Rana draytonii 2016" ; Times: 1
+	Query: "Puffinus tenuirostris AND Island NOT Australia NOT Alaska NOT Canada" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "hylonomus" ; Times: 1
+	Query: "genus:Geococcyx year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "Ambystoma californiense 1983" ; Times: 3
+	Query: "Mus AND CLemente Island" ; Times: 1
+	Query: "Aphelocoma coerulescens 1977" ; Times: 1
+	Query: "genus:spermophilus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Passerculus sandwichensis AND &#34;Nicolas Island&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens 1973" ; Times: 1
+	Query: "Aphelocoma coerulescens 1979" ; Times: 1
+	Query: "Phaethon aethereus AND Isla" ; Times: 1
+	Query: "Microtus longicaudus 1987" ; Times: 1
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "Mus musculus 1974" ; Times: 2
+	Query: "Mus musculus 1975" ; Times: 2
+	Query: "Neotoma fuscipes" ; Times: 4
+	Query: "Microtus longicaudus 2003" ; Times: 1
+	Query: "Phoebastria albatrus AND Island NOT Japan NOT Alaska" ; Times: 1
+	Query: "imantodes gemmistratus sinaloa" ; Times: 1
+	Query: "Vireo bellii pusillus 1989" ; Times: 1
+	Query: "Vireo bellii pusillus 1988" ; Times: 1
+	Query: "procellaria aequinoctialis" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "Vireo bellii pusillus 1982" ; Times: 1
+	Query: "Vireo bellii pusillus 1981" ; Times: 1
+	Query: "Vireo bellii pusillus 1980" ; Times: 1
+	Query: "Neotoma cinerea 1997" ; Times: 1
+	Query: "Coccyzus americanus 2008" ; Times: 1
+	Query: "Neotoma cinerea 1994" ; Times: 1
+	Query: "Coccyzus americanus 2001" ; Times: 1
+	Query: "Passerculus sandwichensis AND Nicolas Island" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Baeolophus inornatus California San Luis Obispo County" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Mus musculus 1988" ; Times: 2
+	Query: "Phaethon aethereus AND Barbara Island" ; Times: 1
+	Query: "Mergus serrator AND Barbara" ; Times: 1
+	Query: "Aphelocoma coerulescens 1980" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Santa barbara&#34;" ; Times: 3
+	Query: "Phoebastria albatrus AND Island" ; Times: 1
+	Query: "Microtus montanus 1998" ; Times: 1
+	Query: "Microtus montanus 1999" ; Times: 1
+	Query: "Callipepla AND Cruz Island" ; Times: 1
+	Query: "Microtus montanus 1990" ; Times: 1
+	Query: "Microtus montanus 1991" ; Times: 1
+	Query: "vntype:specimen specificepithet:monax genus:marmota year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Carduelis psaltria AND Rosa Island" ; Times: 4
+	Query: "Drymarchon couperi 2015" ; Times: 1
+	Query: "specificepithet:ruber genus:Eudocimus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Taricha year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 2
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "Phalaenoptilus nuttallii AND Island" ; Times: 1
+	Query: "Tyrannus verticalis AND Rosa Island" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 2
+	Query: "Mus musculus 1995" ; Times: 2
+	Query: "Ardea herodias AND Barbara Island" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 3
+	Query: "Dipodomys ordii 2015" ; Times: 3
+	Query: "Anas acuta AND Rosa" ; Times: 1
+	Query: "Larus californicus AND Cruz Island" ; Times: 2
+	Query: "Phalacrocorax pelagicus AND Nicolas Island" ; Times: 1
+	Query: "Puffinus creatopus AND Miguel Island" ; Times: 2
+	Query: "arvicola amphibius" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "Phalacrocorax pelagicus AND Anacapa Island" ; Times: 1
+	Query: "Puffinus tenuirostris AND Nicolas" ; Times: 1
+	Query: "specificepithet:fumeus genus:Sorex stateprovince:&#34;pennsylvania&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Ambystoma californiense 2016" ; Times: 3
+	Query: "Ambystoma californiense 2014" ; Times: 3
+	Query: "Ambystoma californiense 2015" ; Times: 3
+	Query: "Cephaloscyllium ventriosum" ; Times: 1
+	Query: "puffinus nativitatis" ; Times: 1
+	Query: "genus:Neotoma year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "Rattus norvegicus 1975" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND Anacapa" ; Times: 1
+	Query: "Scammon AND Santa BArbara Island" ; Times: 1
+	Query: "Reithrodontomys megalotis 1974" ; Times: 1
+	Query: "Reithrodontomys megalotis 1975" ; Times: 1
+	Query: "Reithrodontomys megalotis 1976" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "Reithrodontomys megalotis 1972" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "Reithrodontomys megalotis 1979" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "genus:plecotus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "SBMNH AND Fulmarus" ; Times: 1
+	Query: "Rana draytonii 1999" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Rana draytonii 1991" ; Times: 1
+	Query: "Rana draytonii 1993" ; Times: 1
+	Query: "Rana draytonii 1997" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Mus musculus 1982" ; Times: 2
+	Query: "Mus musculus 1986" ; Times: 2
+	Query: "Mus musculus 1985" ; Times: 2
+	Query: "Mus musculus 1984" ; Times: 2
+	Query: "nectarinia violacea" ; Times: 1
+	Query: "genus:Notiosorex year &gt;= 1959 year &lt;= 1965 institutioncode:SBMNH" ; Times: 1
+	Query: "Sayornis nigricans AND Anacapa Island" ; Times: 3
+	Query: "specificepithet:clangula genus:bucephala country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Scammon AND Island" ; Times: 1
+	Query: "Oenanthe bottae vntype:specimen" ; Times: 1
+	Query: "Raja inornata" ; Times: 2
+	Query: "Egretta tricolor AND Island AND California" ; Times: 1
+	Query: "Lamna ditropis" ; Times: 2
+	Query: "Tyrannus vociferans AND Anacapa Island" ; Times: 1
+	Query: "genus:Reithrodontomys year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "Aphelocoma coerulescens 2000" ; Times: 1
+	Query: "Larus philadelphia AND Baja" ; Times: 1
+	Query: "Anacapa AND Tyrannus vociferans" ; Times: 1
+	Query: "Anas americana AND Barbara Island" ; Times: 1
+	Query: "Pandion haliaetus AND Cruz Island" ; Times: 1
+	Query: "Synthliboramphus craveri continent:North America" ; Times: 3
+	Query: "Eremophila alpestris strigata 2015" ; Times: 1
+	Query: "Eremophila alpestris strigata 2014" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Dixon NOT Gaylord" ; Times: 1
+	Query: "Vireo bellii pusillus 1983" ; Times: 1
+	Query: "genus:Notiosorex county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:chrysoconus genus:Pogoniulus country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Salvadora hexalepis virgultea" ; Times: 1
+	Query: "vntype:specimen genus:Passerculus institutioncode:SBMNH" ; Times: 1
+	Query: "Reithrodontomys megalotis 1995" ; Times: 1
+	Query: "Reithrodontomys megalotis 1992" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT Harrison" ; Times: 2
+	Query: "Phoebastria albatrus AND Island NOT Japan" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "Monticola rufocinereus vntype:specimen" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker" ; Times: 1
+	Query: "Alectoris chukar AND Island" ; Times: 1
+	Query: "arvicola amphibius country:&#34;Russia&#34;" ; Times: 1
+	Query: "Aeronautes AND &#34;Rosa Island&#34;" ; Times: 1
+	Query: "Zapus princeps 2016" ; Times: 2
+	Query: "selasphorus sasin sedentarius" ; Times: 1
+	Query: "Brachyramphus marmoratus 2014" ; Times: 1
+	Query: "Brachyramphus marmoratus 2015" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 2
+	Query: "Vulpes macrotis mutica 1986" ; Times: 1
+	Query: "genus:Ardeotis australis" ; Times: 1
+	Query: "Bubulcus ibis AND ROsa" ; Times: 1
+	Query: "genus:ardeotis australia" ; Times: 1
+	Query: "Anas strepera AND Santa Barbara Island" ; Times: 1
+	Query: "puffinus nativitatis year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Mus AND Clemente Island NOT Fish" ; Times: 1
+	Query: "sturnella bellicosa" ; Times: 1
+	Query: "Aechmophorus occidentalis AND Barbara Island" ; Times: 2
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Leopardus pardalis 2015" ; Times: 1
+	Query: "Leopardus pardalis 2014" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "genus:Gavia year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "pycnonotus xanthopygos" ; Times: 4
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Gavia pacifica AND Barbara Island" ; Times: 1
+	Query: "Spheniscus" ; Times: 1
+	Query: "Puffinus opisthomelas" ; Times: 1
+	Query: "asper Cottus" ; Times: 4
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "Baeolophus wollweberi Chiricahua" ; Times: 1
+	Query: "Anas cyanoptera AND Rosa Island" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Wright" ; Times: 1
+	Query: "Phoebastria albatrus AND Island NOT Japan NOT Alaska NOT Hawaii" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "Thomomys talpoides 2014" ; Times: 1
+	Query: "Microtus longicaudus 2014" ; Times: 1
+	Query: "Zapus princeps 1999" ; Times: 1
+	Query: "Zapus princeps 1998" ; Times: 1
+	Query: "Microtus ochrogaster 2014" ; Times: 1
+	Query: "Oxyura jamaicensis AND Nicolas Island" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "Charadrius melodus 2014" ; Times: 1
+	Query: "Empidonax traillii extimus 2001" ; Times: 1
+	Query: "Empidonax traillii extimus 2000" ; Times: 1
+	Query: "Egretta thula AND Santa Barbara Island" ; Times: 1
+	Query: "Reithrodontomys megalotis 1997" ; Times: 1
+	Query: "genus:Sorex year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "locality:tangair" ; Times: 1
+	Query: "Puffinus griseus AND Rosa Island" ; Times: 1
+	Query: "Melanitta perspicillata AND Isla" ; Times: 1
+	Query: "Squatina californica" ; Times: 2
+	Query: "Callipepla californica AND Catalina Island NOT Osburn NOT Wright NOT ROwley" ; Times: 1
+	Query: "Oxyura jamaicensis AND Rosa Island" ; Times: 1
+	Query: "Microtus montanus 1986" ; Times: 1
+	Query: "Larus californicus AND Cruz" ; Times: 1
+	Query: "Polioptila californica californica 2016" ; Times: 8
+	Query: "Polioptila californica californica 2015" ; Times: 8
+	Query: "Polioptila californica californica 2014" ; Times: 8
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Cooper NOT Townsend NOT Dixon NOT Dickey NOT Gaylord NOT Howell" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Harrison NOT Osburn NOT Wright NOT ROwley" ; Times: 1
+	Query: "Urocyon AND Clemente Island NOT Bloeker NOT Dixon NOT Gaylord NOT Howell" ; Times: 1
+	Query: "Mustela frenata altifrontalis" ; Times: 1
+	Query: "Fulmarus glacialis AND Barbara Island" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "Pandion AND Cedros" ; Times: 1
+	Query: "genus:Chordeiles class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Reithrodontomys megalotis AND Clemente Island NOT Fish NOT Bloeker" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "Puffinus tenuirostris AND Island NOT Australia NOT Alaska" ; Times: 1
+	Query: "Vermivora celata sordida AND Santa BArbara Island" ; Times: 1
+	Query: "genus:Scaphiodontophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Henicorhina leucosticta hauxwelli" ; Times: 1
+	Query: "Ambystoma californiense 2005" ; Times: 3
+	Query: "Ambystoma californiense 2004" ; Times: 3
+	Query: "Ambystoma californiense 2006" ; Times: 3
+	Query: "Ambystoma californiense 2001" ; Times: 3
+	Query: "Ambystoma californiense 2000" ; Times: 3
+	Query: "Ambystoma californiense 2002" ; Times: 3
+	Query: "Puffinus opisthomelas AND Natividad NOT Anthony AND 1897" ; Times: 1
+	Query: "Branta bernicla AND Baja" ; Times: 1
+	Query: "Ambystoma californiense 2008" ; Times: 3
+	Query: "Rattus norvegicus 2014" ; Times: 1
+	Query: "Gopherus agassizii 2016" ; Times: 1
+	Query: "Gopherus agassizii 2015" ; Times: 1
+	Query: "Gopherus agassizii 2014" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Sterna maxima AND Island AND California NOT Carolina NOT Texas NOT FLorida" ; Times: 1
+	Query: "Squatina squatina" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Myzomela cardinalis Makira" ; Times: 1
+	Query: "oriolus oriolus india" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT YPM NOT Bancroft NOT Harrison" ; Times: 1
+	Query: "Phaethon aethereus AND Isla NOT Nayarit" ; Times: 1
+	Query: "Phoenicurus moussieri vntype:specimen" ; Times: 1
+	Query: "Rana draytonii 1989" ; Times: 1
+	Query: "Rana draytonii 1986" ; Times: 1
+	Query: "Rana draytonii 1984" ; Times: 1
+	Query: "Rana draytonii 1985" ; Times: 1
+	Query: "family:Cricetidae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "wisconsin turtle" ; Times: 1
+	Query: "Onychomys leucogaster 2014" ; Times: 1
+	Query: "Mus musculus AND Clemente Island NOT Fish" ; Times: 1
+	Query: "Mimus AND Nicolas Island" ; Times: 1
+	Query: "Podiceps nigricollis AND Rosa Island" ; Times: 1
+	Query: "Sistrurus catenatus 2014" ; Times: 1
+	Query: "genus:peromyscus year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "Mus musculus 1992" ; Times: 2
+	Query: "Mus musculus 1993" ; Times: 2
+	Query: "Echinorhinus cookei" ; Times: 1
+	Query: "Neotoma mexicana 2014" ; Times: 1
+	Query: "Puffinus tenuirostris AND Island NOT Australia NOT Alaska NOT Canada NOT Attu" ; Times: 1
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 2
+	Query: "Phalaenoptilus nuttallii AND &#34;Anacapa&#34;" ; Times: 1
+	Query: "Zapus princeps 2014" ; Times: 1
+	Query: "Mimus AND Catalina" ; Times: 1
+	Query: "Carduelis psaltria AND Barbara Island" ; Times: 1
+	Query: "Callipepla californica AND Cruz Island" ; Times: 2
+	Query: "Urocyon AND Clemente Island" ; Times: 1
+	Query: "Fulmarus glacialis AND Miguel Island" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "SBMNH AND Fulmarus AND Miguel ISland" ; Times: 1
+	Query: "Vermivora celata sordida AND San Nicolas Island" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "Mus musculus 2014" ; Times: 2
+	Query: "kogia breviceps" ; Times: 21
+	Query: "Aphelocoma coerulescens 2015" ; Times: 4
+	Query: "Aphelocoma coerulescens 2014" ; Times: 2
+	Query: "corvus macrorhynchos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "balaena mysticetus california" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 1
+	Query: "Rana draytonii 2014" ; Times: 1
+	Query: "Neotoma mexicana 2016" ; Times: 2
+	Query: "Reithrodontomys megalotis 1989" ; Times: 1
+	Query: "Reithrodontomys megalotis 1988" ; Times: 1
+	Query: "Reithrodontomys megalotis 1985" ; Times: 1
+	Query: "Reithrodontomys megalotis 1984" ; Times: 1
+	Query: "Reithrodontomys megalotis 1987" ; Times: 1
+	Query: "Reithrodontomys megalotis 1986" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Reithrodontomys megalotis 1983" ; Times: 1
+	Query: "Baeolophus inornatus California sonoma county" ; Times: 1
+	Query: "Aphelocoma coerulescens 1988" ; Times: 1
+	Query: "Sterna maxima AND Island" ; Times: 1
+	Query: "specificepithet:costae class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Raja stellulata" ; Times: 2
+	Query: "Aphelocoma coerulescens 1985" ; Times: 1
+	Query: "Aphelocoma coerulescens 1986" ; Times: 1
+	Query: "Dipodomys ordii 2016" ; Times: 2
+	Query: "genus:Spermophilus year &gt;= 1959 year &lt;= 1963 institutioncode:SBMNH" ; Times: 1
+	Query: "Dipodomys ordii 2014" ; Times: 1
+	Query: "pycnonotus jocosus india" ; Times: 2
+	Query: "tangara callophrys" ; Times: 2
+	Query: "Zapus princeps 2000" ; Times: 1
+	Query: "SBMNH AND 326" ; Times: 1
+	Query: "Vulpes macrotis mutica 2016" ; Times: 1
+	Query: "Vulpes macrotis mutica 2014" ; Times: 1
+	Query: "Vulpes macrotis mutica 2015" ; Times: 1
+	Query: "Cossypha semirufa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Urocissa flavirostris" ; Times: 2
+	Query: "Vulpes macrotis mutica 1980" ; Times: 1
+	Query: "Vulpes macrotis mutica 1983" ; Times: 1
+	Query: "Vulpes macrotis mutica 1987" ; Times: 1
+	Query: "SBMNH AND &#34;21345&#34;" ; Times: 1
+	Query: "specificepithet:leo genus:panthera" ; Times: 2
+	Query: "Branta bernicla AND Mexico" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:Puffinus year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "family:cricetidae stateprovince:&#34;California&#34; year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Corvus AND Cruz Island" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932" ; Times: 2
+	Query: "class:Aves locality:Madras" ; Times: 3
+	Query: "rabies" ; Times: 2
+	Query: "Kogia" ; Times: 1
+	Query: "Podiceps auritus AND Barbara Island" ; Times: 3
+	Query: "vntype:specimen Muscicapa ruficauda" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "genus:Urocyon family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "Microtus montanus 2016" ; Times: 2
+	Query: "Microtus montanus 2014" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad NOT WFVZ NOT Howell NOT Kaeding NOT Anthony AND 1897 NOT Harrison" ; Times: 1
+	Query: "Zapus princeps 1989" ; Times: 1
+	Query: "Mergus serrator AND Baja" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 122 (out of 1308 download events in this period)
+Total number of records downloaded: 2887
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 80
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-22 ; Times: 3
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 4
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 6
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-02 ; Times: 5
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-04 ; Times: 6
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-23 ; Times: 18
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 6
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-10 ; Times: 11
+	Date: 2019-10-11 ; Times: 12
+	Date: 2019-10-30 ; Times: 6
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-17 ; Times: 6
+	Date: 2019-10-15 ; Times: 4
+	Date: 2019-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "Geothlypis beldingi" ; Times: 1
+	Query: "colinus virginianus floridanus" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "specificepithet:aquaticus genus:sylvilagus" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "sorex ornatus" ; Times: 1
+	Query: "specificepithet:sabrinus genus:glaucomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "diglossa" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "genus:ortygospiza class:aves" ; Times: 1
+	Query: "wisconsin turtle" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "specificepithet:mexicana genus:Choeronycteris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 5
+	Query: "Tangara" ; Times: 2
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "specificepithet:simulans genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;arizona&#34; distance(location,geopoint(33.9811704087733,-114.3090985705079))&lt;100000" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "anairetes parulus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Passerculus institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 2
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Sonora stramineus" ; Times: 2
+	Query: "Varanus salvator" ; Times: 2
+	Query: "specificepithet:agilis genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Galeorhinus stateprovince:California" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:Sciurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "specificepithet:californicus genus:Macrotus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hemispingus" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Leptonycteris" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "sturnella bellicosa" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Halcyon country:india" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea county:&#34;santa barbara&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "genus:Tamias country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "Tapera naevia" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Notiosorex year &gt;= 1959 year &lt;= 1965 institutioncode:SBMNH" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "specificepithet:venustus genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves locality:Madras" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "order:Rodentia county:&#34;Buncombe&#34; OR &#34;Ashe&#34; OR &#34;Watauga&#34; OR &#34;Caldwell&#34; OR &#34;Burke&#34; OR &#34;Avery&#34; OR &#34;Madison&#34; OR &#34;Polk&#34; OR &#34;Henderson&#34; OR &#34;Transylvania&#34; OR &#34;Jackson&#34; OR &#34;Macon&#34; OR &#34;Clay&#34; OR &#34;Cherokee&#34; OR &#34;Graham&#34; OR &#34;Swain&#34; OR &#34;Haywood&#34; OR &#34;Mitchell&#34; OR &#34;Yancey&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "colinus virginianus texanus" ; Times: 1
+	Query: "family:Soricidae year &gt;= 1959 year &lt;= 1965 institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen genus:Myotis family:Vespertilionidae order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
