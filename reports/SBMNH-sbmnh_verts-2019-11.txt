@@ -1,0 +1,481 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 952
+Number of records retrieved in searches: 7952
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 14
+	Country: Denmark ; Times: 62
+	Country: Turkey ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 841
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 11
+	Date: 2019-11-18 ; Times: 6
+	Date: 2019-11-15 ; Times: 55
+	Date: 2019-11-14 ; Times: 28
+	Date: 2019-11-17 ; Times: 4
+	Date: 2019-11-16 ; Times: 103
+	Date: 2019-11-11 ; Times: 6
+	Date: 2019-11-10 ; Times: 32
+	Date: 2019-11-13 ; Times: 17
+	Date: 2019-11-12 ; Times: 55
+	Date: 2019-11-08 ; Times: 114
+	Date: 2019-11-09 ; Times: 79
+	Date: 2019-11-06 ; Times: 70
+	Date: 2019-11-07 ; Times: 206
+	Date: 2019-11-20 ; Times: 9
+	Date: 2019-11-21 ; Times: 7
+	Date: 2019-11-22 ; Times: 15
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-24 ; Times: 3
+	Date: 2019-11-25 ; Times: 3
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-27 ; Times: 7
+	Date: 2019-11-28 ; Times: 12
+	Date: 2019-11-29 ; Times: 5
+	Date: 2019-11-04 ; Times: 36
+	Date: 2019-11-05 ; Times: 20
+	Date: 2019-11-02 ; Times: 5
+	Date: 2019-11-03 ; Times: 31
+	Date: 2019-11-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "specificepithet:spinatus genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 3
+	Query: "Dipodomys venustus institutioncode:SBMNH" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;california&#34; year &gt;= 2010 year &lt;= 2019" ; Times: 1
+	Query: "genus:Rallus county:&#34;Imperial&#34;" ; Times: 1
+	Query: "specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "genus:anniella specificepithet:pulchra institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Caprimulgus carolinensis 1975" ; Times: 1
+	Query: "Empidonax traillii extimus 2014" ; Times: 4
+	Query: "Empidonax traillii extimus 2015" ; Times: 4
+	Query: "Empidonax traillii extimus 2016" ; Times: 4
+	Query: "Polioptila californica californica 2014" ; Times: 4
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1960 institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920" ; Times: 7
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1910" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913" ; Times: 4
+	Query: "Anotomys" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:teton stateprovince:&#34;wyoming&#34;" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Puffinus tenuirostris AND Nicolas" ; Times: 1
+	Query: "family:Columbidae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:ornata genus:thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "johannae" ; Times: 2
+	Query: "Ambystoma californiense 2016" ; Times: 9
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "Ambystoma californiense 2015" ; Times: 9
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2010" ; Times: 1
+	Query: "Aphelocoma coerulescens 1979" ; Times: 6
+	Query: "chaenopsis alepidota" ; Times: 1
+	Query: "Vireo bellii pusillus 2014" ; Times: 3
+	Query: "Vireo bellii pusillus 2015" ; Times: 3
+	Query: "Vireo bellii pusillus 2016" ; Times: 3
+	Query: "Sitta pygmaea pinos" ; Times: 1
+	Query: "family:Passeridae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "Pycnonotus xanthopygos" ; Times: 2
+	Query: "Mycteria americana 1977" ; Times: 4
+	Query: "Mycteria americana 1976" ; Times: 4
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "Rana draytonii 1985" ; Times: 6
+	Query: "specificepithet:transitionalis genus:sylvilagus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Stephens" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 4
+	Query: "Ambystoma californiense 2004" ; Times: 9
+	Query: "Ambystoma californiense 2006" ; Times: 9
+	Query: "Allocyttus folletti" ; Times: 1
+	Query: "Ambystoma californiense 2000" ; Times: 9
+	Query: "Ambystoma californiense 2002" ; Times: 9
+	Query: "Rana draytonii 1991" ; Times: 6
+	Query: "Rana draytonii 1993" ; Times: 6
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "Ambystoma californiense 2008" ; Times: 9
+	Query: "Urocyon littoralis" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 2
+	Query: "Heliangelus strophianus" ; Times: 7
+	Query: "Gopherus agassizii 2016" ; Times: 7
+	Query: "Gopherus agassizii 2015" ; Times: 7
+	Query: "Gopherus agassizii 2014" ; Times: 8
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "haematopus unicolor" ; Times: 3
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 3
+	Query: "Heterodontus francisci" ; Times: 4
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 NOT Stephens" ; Times: 1
+	Query: "Vireo bellii pusillus 2001" ; Times: 3
+	Query: "vntype:specimen specificepithet:ornata genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rheidae" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "24573" ; Times: 1
+	Query: "Drymarchon couperi 2014" ; Times: 4
+	Query: "Ambystoma californiense 2005" ; Times: 9
+	Query: "Drymarchon couperi 2016" ; Times: 4
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coccyzus americanus 1997" ; Times: 4
+	Query: "Sciurus granatensis" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Psaltriparus minimus Ventura County" ; Times: 1
+	Query: "Vireo bellii pusillus 1982" ; Times: 3
+	Query: "Coccyzus americanus 2015" ; Times: 3
+	Query: "Dipodomys institutioncode:SBMNH" ; Times: 1
+	Query: "Rana draytonii 1989" ; Times: 6
+	Query: "Rana draytonii 1986" ; Times: 6
+	Query: "Ambystoma californiense 2001" ; Times: 9
+	Query: "Rana draytonii 1984" ; Times: 6
+	Query: "Oceanodroma homochroa AND Farallon NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "family:Cricetidae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 4
+	Query: "specificepithet:ardosiaceus genus:Falco" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1919" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon AND 1896" ; Times: 2
+	Query: "Falco sparverius AND Santa Barbara Island" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "Gopherus agassizii 1979" ; Times: 7
+	Query: "Gopherus agassizii 1978" ; Times: 7
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 4
+	Query: "Sistrurus catenatus 2015" ; Times: 2
+	Query: "Sistrurus catenatus 2014" ; Times: 4
+	Query: "vntype:specimen genus:Passerculus institutioncode:SBMNH" ; Times: 3
+	Query: "Brachyramphus marmoratus 1977" ; Times: 5
+	Query: "genus:Rattus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "Charadrius melodus 2014" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Macropus eugenii" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados" ; Times: 3
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "institutioncode:SBMNH" ; Times: 2
+	Query: "Eremophila alpestris strigata 2016" ; Times: 4
+	Query: "specificepithet:transitionalis genus:sylvilagus stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Eremophila alpestris strigata 2014" ; Times: 4
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Polioptila californica californica 2016" ; Times: 4
+	Query: "family:Heteromyidae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Ventura&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Rana draytonii 1997" ; Times: 6
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "Babyrousa" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "genus:leptotyphlops specificepithet:humilis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Careproctus melanurus" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "specificepithet:newtoni genus:Falco" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "heliangelus spencei" ; Times: 1
+	Query: "genus:Glaucomys county:&#34;San Bernardino&#34;" ; Times: 3
+	Query: "pyromelana" ; Times: 1
+	Query: "Vulpes macrotis mutica 1980" ; Times: 3
+	Query: "Coccyzus americanus 1975" ; Times: 4
+	Query: "Polioptila californica californica 2015" ; Times: 4
+	Query: "Ambystoma californiense 1986" ; Times: 9
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 28
+	Query: "Ambystoma californiense 1983" ; Times: 9
+	Query: "Crotalus helleri" ; Times: 3
+	Query: "specificepithet:fuscus genus:eptesicus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 NOT Field" ; Times: 1
+	Query: "Aphelocoma coerulescens 2015" ; Times: 8
+	Query: "Aphelocoma coerulescens 2014" ; Times: 12
+	Query: "Cetorhinus maximus vntype:specimen" ; Times: 2
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "raza island" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "Aphelocoma coerulescens 1977" ; Times: 6
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 6
+	Query: "Rana draytonii 2014" ; Times: 6
+	Query: "Aphelocoma coerulescens 1973" ; Times: 6
+	Query: "Rana draytonii 2016" ; Times: 6
+	Query: "Brachyramphus marmoratus 2014" ; Times: 5
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "genus:Mus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 6
+	Query: "Oceanodroma homochroa AND Farallon NOT Emerson NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "Thinocorus orbignyianus" ; Times: 1
+	Query: "Vireo bellii pusillus 1998" ; Times: 3
+	Query: "class:Aves county:&#34;Kings&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1960 institutioncode:SBMNH" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 42
+	Query: "infernalis specificepithet:sirtalis genus:thamnophis" ; Times: 2
+	Query: "Vireo bellii pusillus 1991" ; Times: 3
+	Query: "Vireo bellii pusillus 1993" ; Times: 3
+	Query: "Hippolais icterina" ; Times: 1
+	Query: "Aphelocoma coerulescens 1988" ; Times: 6
+	Query: "Cyanocitta cristata cyanotephra" ; Times: 1
+	Query: "Aphelocoma coerulescens 1990" ; Times: 6
+	Query: "genus:microtus locality:san clemente" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Dickey NOT Rossem NOT Huey NOT Stephens" ; Times: 4
+	Query: "Aphelocoma coerulescens 1980" ; Times: 6
+	Query: "Eubalaena glacialis california" ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 2
+	Query: "Aphelocoma coerulescens 1985" ; Times: 6
+	Query: "Aphelocoma coerulescens 1986" ; Times: 6
+	Query: "Gopherus agassizii 1980" ; Times: 7
+	Query: "pavo cristatus" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem NOT Huey NOT Stephens" ; Times: 1
+	Query: "genus:peromyscus year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 3
+	Query: "specificepithet:personatus genus:Trogon" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 5
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Huey NOT Stephens" ; Times: 2
+	Query: "Power AND Barbara Island" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "hippolais icterina" ; Times: 3
+	Query: "Mycteria americana 2014" ; Times: 4
+	Query: "genus:glaucomys county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:rupicoloides genus:Falco" ; Times: 1
+	Query: "family:Muridae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2010" ; Times: 1
+	Query: "Eremophila alpestris strigata 2015" ; Times: 4
+	Query: "Rana draytonii 2000" ; Times: 6
+	Query: "Rana draytonii 2001" ; Times: 6
+	Query: "specificepithet:undulatus genus:Sceloporus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Pan order:Primates country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Vulpes macrotis mutica 2016" ; Times: 3
+	Query: "Leopardus pardalis 2014" ; Times: 4
+	Query: "Vulpes macrotis mutica 2014" ; Times: 3
+	Query: "Vulpes macrotis mutica 2015" ; Times: 3
+	Query: "Eubalaena glacialis" ; Times: 2
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "genus:Terrapene stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Chaetodipus county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Ambystoma californiense 2014" ; Times: 9
+	Query: "Vireo bellii pusillus 1989" ; Times: 3
+	Query: "Vireo bellii pusillus 1988" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1928" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "pycnonotus xanthopygos" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 5
+	Query: "Vireo bellii pusillus 1981" ; Times: 3
+	Query: "Vireo bellii pusillus 1980" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1910 NOT Osburn" ; Times: 1
+	Query: "Coccyzus americanus 2008" ; Times: 4
+	Query: "Vulpes macrotis mutica 1983" ; Times: 3
+	Query: "family:Odontophoridae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "locality:ramsey stateprovince:&#34;wales&#34;" ; Times: 1
+	Query: "Vulpes macrotis mutica 1987" ; Times: 3
+	Query: "Vulpes macrotis mutica 1986" ; Times: 3
+	Query: "Coccyzus americanus 2001" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 NOT Field NOT Stephens" ; Times: 1
+	Query: "Gopherus agassizii 1986" ; Times: 7
+	Query: "Gopherus agassizii 1987" ; Times: 7
+	Query: "Aphelocoma coerulescens 2000" ; Times: 6
+	Query: "specificepithet:penicillatus genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Gopherus agassizii 1982" ; Times: 7
+	Query: "Gopherus agassizii 1983" ; Times: 7
+	Query: "family:corvidae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Lophiodes caulinaris" ; Times: 2
+	Query: "specificepithet:cenchroides genus:Falco" ; Times: 2
+	Query: "genus:Passer year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea county:&#34;san luis obispo&#34;" ; Times: 2
+	Query: "Chordeiles acutipennis year &gt; 1990" ; Times: 1
+	Query: "class:aves locality:newport news" ; Times: 1
+	Query: "Vireo bellii pusillus 1983" ; Times: 3
+	Query: "Anotomys leander" ; Times: 5
+	Query: "specificepithet:bottae genus:thomomys county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 12
+	Query: "elf" ; Times: 2
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Vireo bellii pusillus 1979" ; Times: 3
+	Query: "Rana draytonii 2003" ; Times: 6
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 3
+	Query: "Machaeropterus deliciosus" ; Times: 5
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Drymarchon couperi 2015" ; Times: 4
+	Query: "Rana draytonii 1999" ; Times: 6
+	Query: "genus:ophisaurus specificepithet:ventralis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Ambystoma californiense 1995" ; Times: 9
+	Query: "family:Soricidae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "genus:gasterosteus stateprovince:&#34;california&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Empidonax traillii extimus 2001" ; Times: 4
+	Query: "Empidonax traillii extimus 2000" ; Times: 4
+	Query: "Gopherus agassizii 1991" ; Times: 7
+	Query: "sterna acuticauda class:aves continent:asia" ; Times: 1
+	Query: "family:Picidae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "Nasua narica" ; Times: 4
+	Query: "Alopias vulpinus vntype:specimen" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "heliangelus spencei vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "specificepithet:monax genus:marmota continent:North America year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Dickey NOT Rossem NOT Huey NOT Stephens NOT Howell" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "family:Fringillidae year &gt;= 1959 year &lt;= 1964 institutioncode:SBMNH" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 95 (out of 1367 download events in this period)
+Total number of records downloaded: 2569
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 89
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-21 ; Times: 14
+	Date: 2019-11-22 ; Times: 12
+	Date: 2019-11-05 ; Times: 4
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-08 ; Times: 5
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 6
+	Date: 2019-11-15 ; Times: 8
+	Date: 2019-11-23 ; Times: 3
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-12 ; Times: 8
+	Date: 2019-11-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "genus:anniella specificepithet:pulchra institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Tulare&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1960 institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fallax genus:Chaetodipus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anotomys" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:vehiculum genus:Plethodon" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "genus:Hypsiglena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chaetodipus locality:Tucson" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "genus:Arizona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:rodentia county:&#34;San Francisco&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Falco sparverius AND Santa Barbara Island" ; Times: 1
+	Query: "vntype:specimen genus:Passerculus institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Ventura&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:leptotyphlops specificepithet:humilis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:charina specificepithet:bottae institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Kings&#34; stateprovince:&#34;California&#34; year &gt;= 1850 year &lt;= 1960 institutioncode:SBMNH" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:testudinidae country:&#34;ecuador&#34;" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Spilogale stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "bushtit eggs" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "vireo vicinior" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flagellum stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1939 year &lt;= 1970" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:ventralis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "sterna acuticauda class:aves continent:asia" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
