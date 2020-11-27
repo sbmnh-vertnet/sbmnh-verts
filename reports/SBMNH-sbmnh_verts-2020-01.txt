@@ -1,0 +1,508 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 975
+Number of records retrieved in searches: 3861
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Cuba ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 62
+	Country: United Kingdom ; Times: 35
+	Country: Unknown ; Times: 5
+	Country: Bolivia ; Times: 4
+	Country: United States ; Times: 852
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 16
+	Date: 2020-01-09 ; Times: 10
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-02 ; Times: 14
+	Date: 2020-01-01 ; Times: 16
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 5
+	Date: 2020-01-05 ; Times: 16
+	Date: 2020-01-21 ; Times: 12
+	Date: 2020-01-20 ; Times: 7
+	Date: 2020-01-23 ; Times: 38
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-25 ; Times: 13
+	Date: 2020-01-24 ; Times: 12
+	Date: 2020-01-27 ; Times: 10
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-29 ; Times: 82
+	Date: 2020-01-28 ; Times: 15
+	Date: 2020-01-18 ; Times: 80
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-14 ; Times: 21
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-30 ; Times: 367
+	Date: 2020-01-17 ; Times: 29
+	Date: 2020-01-10 ; Times: 12
+	Date: 2020-01-11 ; Times: 9
+	Date: 2020-01-12 ; Times: 13
+	Date: 2020-01-13 ; Times: 25
+	Date: 2020-01-31 ; Times: 135
+	Date: 2020-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:fundulus order:cyprinodontiformes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "cacicus flavicrissus" ; Times: 3
+	Query: "Chlorocebus aethiops mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "genus:Masticophis county:&#34;San luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Potos flavus mappable:1" ; Times: 2
+	Query: "Rana draytonii 1566" ; Times: 5
+	Query: "Rana draytonii 1137" ; Times: 5
+	Query: "Rana draytonii 1136" ; Times: 5
+	Query: "Rana draytonii 1135" ; Times: 5
+	Query: "genus:Passerculus stateprovince:&#34;California&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "family:molidae" ; Times: 6
+	Query: "Rana draytonii 1473" ; Times: 5
+	Query: "bursa-pastoris Capsella" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "specificepithet:elegans county:&#34;ventura&#34;" ; Times: 1
+	Query: "family:fundulidae order:cyprinodontiformes country:&#34;Mexico&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 2
+	Query: "specificepithet:capensis genus:Emberiza family:Emberizidae class:Aves continent:Africa" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 6
+	Query: "&#34;lynx lynx&#34;" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Rana draytonii 21" ; Times: 4
+	Query: "genus:eumeces county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 3
+	Query: "class:Aves stateprovince:&#34;Sao Paulo&#34; country:&#34;Brazil&#34; institutioncode:SBMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:Los Bancos " ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1922" ; Times: 1
+	Query: "Rana draytonii 1604" ; Times: 5
+	Query: "genus:Phrynosoma county:&#34;San luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "opisthocomus" ; Times: 2
+	Query: "genus:Ammodramus institutioncode:SBMNH" ; Times: 1
+	Query: "Rana draytonii 46" ; Times: 4
+	Query: "Rana draytonii 225" ; Times: 4
+	Query: "Rana draytonii 1040" ; Times: 5
+	Query: "Phacochoerus aethiopicus mappable:1" ; Times: 2
+	Query: "Myrmecophaga tridactyla mappable:1" ; Times: 2
+	Query: "Burhinus oedicnemus" ; Times: 2
+	Query: "sclerurus peruvianus" ; Times: 3
+	Query: "callithrix pygmaea" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 3
+	Query: "Opisthoprora" ; Times: 1
+	Query: "Otophidium scrippsae" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;PIMA&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "Rana draytonii 1984" ; Times: 6
+	Query: "sila Gambelia" ; Times: 1
+	Query: "genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Rana draytonii 142" ; Times: 4
+	Query: "27833 aves" ; Times: 1
+	Query: "Rana draytonii 141" ; Times: 4
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "Rana draytonii 144" ; Times: 4
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Dasyprocta sp. mappable:1" ; Times: 3
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Rana draytonii 1521" ; Times: 5
+	Query: "Rana draytonii 1522" ; Times: 5
+	Query: "Rana draytonii 1991" ; Times: 6
+	Query: "jocosus Pycnonotus" ; Times: 1
+	Query: "Rana draytonii 1993" ; Times: 6
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Rana draytonii 1443" ; Times: 5
+	Query: "Rana draytonii 1441" ; Times: 5
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 6
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "Rana draytonii 310" ; Times: 4
+	Query: "Rana draytonii 316" ; Times: 4
+	Query: "actinemys" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 6
+	Query: "Rana draytonii 1267" ; Times: 5
+	Query: "country:Ecuador scientificname:Choloepus didactylus " ; Times: 2
+	Query: "california gull minnesota" ; Times: 1
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 2
+	Query: "Rana draytonii 1757" ; Times: 5
+	Query: "Rana draytonii 1756" ; Times: 5
+	Query: "Rana draytonii 1755" ; Times: 5
+	Query: "Coryphaena hippurus mappable:1" ; Times: 2
+	Query: "Rana draytonii 1753" ; Times: 5
+	Query: "Rana draytonii 1752" ; Times: 5
+	Query: "Rana draytonii 1751" ; Times: 5
+	Query: "Rana draytonii 1750" ; Times: 5
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 2
+	Query: "Prionace glauca mappable:1" ; Times: 3
+	Query: "Dipodomys venustus sanctiluciae vntype:specimen" ; Times: 1
+	Query: "genus:Anniella county:&#34;San luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Rana draytonii 1520" ; Times: 5
+	Query: "Rana draytonii 155" ; Times: 4
+	Query: "Rana draytonii 154" ; Times: 4
+	Query: "Procavia capensis mappable:1" ; Times: 2
+	Query: "Chaetodipus californicus femoralis" ; Times: 2
+	Query: "locality:&#34;Santa Rosa&#34; county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 1
+	Query: "Sceloporus becki" ; Times: 1
+	Query: "genus:peromyscus county:&#34;napa&#34;" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 4
+	Query: "Rana draytonii 1989" ; Times: 6
+	Query: "Rana draytonii 1986" ; Times: 6
+	Query: "Rana draytonii 250" ; Times: 4
+	Query: "Rana draytonii 1985" ; Times: 6
+	Query: "Nyctinomops macrotis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rana draytonii 223" ; Times: 4
+	Query: "mykiss Oncorhynchus" ; Times: 3
+	Query: "Rana draytonii 1182" ; Times: 5
+	Query: "Rana draytonii 1183" ; Times: 5
+	Query: "scientificname:Atherinops affinis mappable:1" ; Times: 6
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "Rana draytonii 41" ; Times: 4
+	Query: "specificepithet:hammondii genus:Spea" ; Times: 1
+	Query: "Rana draytonii 17" ; Times: 4
+	Query: "Thunnus thynnus mappable:1" ; Times: 3
+	Query: "Rana draytonii 11" ; Times: 4
+	Query: "Rana draytonii 10" ; Times: 4
+	Query: "Rana draytonii 13" ; Times: 4
+	Query: "Rana draytonii 12" ; Times: 4
+	Query: "&#34;Ailurus fulgens&#34;" ; Times: 5
+	Query: "Rana draytonii 1805" ; Times: 5
+	Query: "Guadalupe AND Thryomanes" ; Times: 1
+	Query: "Rana draytonii 18" ; Times: 4
+	Query: "genus:Callisaurus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus county:&#34;placer&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 2
+	Query: "genus:Anniella county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "Rana draytonii 2003" ; Times: 6
+	Query: "specificepithet:alvarius genus:Bufo" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys county:&#34;quay&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 3
+	Query: "Rana draytonii 169" ; Times: 4
+	Query: "Citharichthys sordidus mappable:1" ; Times: 1
+	Query: "Rana draytonii 3" ; Times: 4
+	Query: "Rana draytonii 1997" ; Times: 6
+	Query: "Thunnus alalunga mappable:1" ; Times: 3
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "genus:batrachoseps locality:San miguel" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "genus:ptychoramphus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rana draytonii 1474" ; Times: 5
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "Rana draytonii 312" ; Times: 4
+	Query: "mesoplodon carlhubbsi" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 102
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 3
+	Query: "Rana draytonii 1072" ; Times: 5
+	Query: "scientificname:Leuresthes tenuis mappable:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "Rana draytonii 1815" ; Times: 5
+	Query: "Thryomanes AND Cruz Island" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 6
+	Query: "Rana draytonii 2014" ; Times: 6
+	Query: "Rana draytonii 2016" ; Times: 6
+	Query: "grus rubicunda" ; Times: 2
+	Query: "Rana draytonii 176" ; Times: 4
+	Query: "Accipiter striatus AND Catalina Island" ; Times: 1
+	Query: "class:Mammalia locality:Hemet county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Rana draytonii 1266" ; Times: 5
+	Query: "class:aves country:&#34;togo&#34;" ; Times: 1
+	Query: "Rana draytonii 1492" ; Times: 5
+	Query: "Rana draytonii 81" ; Times: 4
+	Query: "Actinemys marmorata marmorata" ; Times: 1
+	Query: "Rana draytonii 267" ; Times: 4
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Rana draytonii 180" ; Times: 4
+	Query: "Rana draytonii 1039" ; Times: 5
+	Query: "Mallard Duck" ; Times: 2
+	Query: "scientificname:Colpichthys regis mappable:1" ; Times: 1
+	Query: "Sarkidiornis" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "county:&#34;berkeley&#34; stateprovince:&#34;south carolina&#34; (clement)" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 4
+	Query: "Rana draytonii 1764" ; Times: 5
+	Query: "Rana draytonii 30" ; Times: 4
+	Query: "Rana draytonii 120" ; Times: 4
+	Query: "specificepithet:pacificus genus:Sphaerodactylus institutioncode:SBMNH" ; Times: 4
+	Query: "Rana draytonii 85" ; Times: 4
+	Query: "Thamnophis sirtalis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rana draytonii 2000" ; Times: 6
+	Query: "Rana draytonii 2001" ; Times: 6
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 3
+	Query: "Rana draytonii 107" ; Times: 4
+	Query: "genus:batrachoseps county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Rana draytonii 101" ; Times: 4
+	Query: "Thryomanes AND Anacapa" ; Times: 1
+	Query: "Rana draytonii 1895" ; Times: 5
+	Query: "specificepithet:atrocaudata genus:Terpsiphone" ; Times: 1
+	Query: "Rana draytonii 1754" ; Times: 5
+	Query: "Dasyprocta aguti" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "Rana draytonii 1643" ; Times: 5
+	Query: "Rana draytonii 1642" ; Times: 5
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 10
+	Query: "Neochen" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Baryphthengus martii" ; Times: 4
+	Query: "Rana draytonii 1644" ; Times: 5
+	Query: "Rana draytonii 216" ; Times: 4
+	Query: "Thryomanes AND Santa Rosa Island" ; Times: 1
+	Query: "class:Aves locality:Hemet county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2007" ; Times: 1
+	Query: "Rana draytonii 1305" ; Times: 5
+	Query: "Rana draytonii 1157" ; Times: 5
+	Query: "Rana draytonii 184" ; Times: 4
+	Query: "heloderma california" ; Times: 1
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1919" ; Times: 1
+	Query: "Rana draytonii 25" ; Times: 4
+	Query: "Rana draytonii 24" ; Times: 4
+	Query: "Rana draytonii 182" ; Times: 4
+	Query: "Rana draytonii 26" ; Times: 4
+	Query: "Gerres cinereus mappable:1" ; Times: 2
+	Query: "vntype:specimen order:procellariiformes institutioncode:SBMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "careproctus melanurus" ; Times: 2
+	Query: "Rana draytonii 22" ; Times: 4
+	Query: "Rana draytonii 23" ; Times: 4
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Rana draytonii 27" ; Times: 4
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 4
+	Query: "Thryomanes AND Guadalupe" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "Rana draytonii 500" ; Times: 4
+	Query: "Sphaerodactylus pacificus" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 29
+	Query: "Diodon hystrix mappable:1" ; Times: 6
+	Query: "lampropeltis multifasciata" ; Times: 1
+	Query: "Tragelaphus strepsiceros mappable:1" ; Times: 2
+	Query: "streptopelia turtur" ; Times: 3
+	Query: "Rana draytonii 1794" ; Times: 5
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "specificepithet:fodiens genus:Smilisca" ; Times: 1
+	Query: "Rana draytonii 205" ; Times: 4
+	Query: "Rana draytonii 204" ; Times: 4
+	Query: "Rana draytonii 206" ; Times: 4
+	Query: "picta Chrysemys" ; Times: 1
+	Query: "Rana draytonii 200" ; Times: 4
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Rana draytonii 150" ; Times: 4
+	Query: "Rana draytonii 1999" ; Times: 6
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "Rana draytonii 222" ; Times: 4
+	Query: "Salvadora hexalepis virgultea" ; Times: 1
+	Query: "vntype:specimen genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 6
+	Query: "vntype:specimen specificepithet:cela genus:cacicus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Rana draytonii 1148" ; Times: 5
+	Query: "Rana draytonii 1149" ; Times: 5
+	Query: "Xiphias gladius mappable:1" ; Times: 3
+	Query: "stereolepis gigas" ; Times: 2
+	Query: "McHenry County Cistothorus palustris" ; Times: 2
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "Rana draytonii 904" ; Times: 4
+	Query: "Rana draytonii 9" ; Times: 4
+	Query: "Rana draytonii 8" ; Times: 4
+	Query: "Rana draytonii 901" ; Times: 4
+	Query: "Rana draytonii 5" ; Times: 4
+	Query: "Rana draytonii 4" ; Times: 4
+	Query: "Rana draytonii 7" ; Times: 4
+	Query: "Rana draytonii 6" ; Times: 4
+	Query: "Rana draytonii 1" ; Times: 2
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "genus:lynx family:felidae county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Rana draytonii 2" ; Times: 4
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Rana draytonii 329" ; Times: 4
+	Query: "Mustela putorius mappable:1" ; Times: 2
+	Query: "Thryomanes AND Cruz Island AND 1981" ; Times: 1
+	Query: "Rana draytonii 128" ; Times: 4
+	Query: "Rana draytonii 129" ; Times: 4
+	Query: "Rana draytonii 1147" ; Times: 5
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Rana draytonii 454" ; Times: 4
+	Query: "Rana draytonii 327" ; Times: 4
+	Query: "Clemmys guttata mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 123 (out of 1584 download events in this period)
+Total number of records downloaded: 3380
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: Cuba ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 91
+	Country: China ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 7
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-02 ; Times: 4
+	Date: 2020-01-07 ; Times: 4
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 6
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-08 ; Times: 5
+	Date: 2020-01-25 ; Times: 6
+	Date: 2020-01-24 ; Times: 16
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-23 ; Times: 7
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 6
+	Date: 2020-01-12 ; Times: 11
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-31 ; Times: 9
+	Date: 2020-01-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "mesoplodon carlhubbsi" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Opisthoprora" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:californicus genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "specificepithet:capensis genus:Emberiza family:Emberizidae class:Aves continent:Africa" ; Times: 2
+	Query: "specificepithet:cinereus genus:plethodon country:&#34;united states&#34;" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "tamias baja" ; Times: 2
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Sceloporus becki" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "order:rodentia county:&#34;napa&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "family:Molossidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Myotis californicus" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "xantusia henshawi" ; Times: 2
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "Dasyprocta aguti" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Sphaerodactylus pacificus" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "Sceloporus uniformis" ; Times: 1
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "family:Mormoopidae stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
