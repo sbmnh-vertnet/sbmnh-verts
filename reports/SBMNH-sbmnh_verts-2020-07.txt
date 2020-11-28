@@ -1,0 +1,400 @@
+Report for Institution Code SBMNH, Resource sbmnh_verts
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 308
+Number of records retrieved in searches: 1483
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: Peru ; Times: 8
+	Country: France ; Times: 30
+	Country: United Kingdom ; Times: 20
+	Country: Malaysia ; Times: 6
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: United States ; Times: 196
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 17
+	Date: 2020-07-20 ; Times: 3
+	Date: 2020-07-27 ; Times: 4
+	Date: 2020-07-26 ; Times: 5
+	Date: 2020-07-25 ; Times: 12
+	Date: 2020-07-22 ; Times: 7
+	Date: 2020-07-01 ; Times: 3
+	Date: 2020-07-03 ; Times: 9
+	Date: 2020-07-02 ; Times: 20
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 34
+	Date: 2020-07-06 ; Times: 12
+	Date: 2020-07-24 ; Times: 8
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 20
+	Date: 2020-07-18 ; Times: 4
+	Date: 2020-07-19 ; Times: 42
+	Date: 2020-07-12 ; Times: 7
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-11 ; Times: 18
+	Date: 2020-07-16 ; Times: 7
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 11
+	Date: 2020-07-17 ; Times: 14
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 7
+	Date: 2020-07-30 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "Actophilornis albinucha" ; Times: 2
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ziphius" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "enhydra lutris vntype:specimen institutioncode:SBMNH" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "Conepatus" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Sterna acuticauda" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1984 year &lt;= 1984 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Artemisia" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 2
+	Query: "class:Reptilia locality:Caliente county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 2001 year &lt;= 2020" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "Guapalo" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 2
+	Query: "23686" ; Times: 2
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;california&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2003 year &lt;= 2003" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "pelamis platura" ; Times: 1
+	Query: "san miguel institutioncode:SBMNH" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2001 year &lt;= 2001" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:mammoth lakes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 7
+	Query: "genus:Masticophis county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;San Luis Obispo&#34; stateprovince:&#34;california&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 1
+	Query: "class:Reptilia locality:Grapevine county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 5
+	Query: "plethodon vandykei" ; Times: 4
+	Query: "country:Ecuador scientificname:Choloepus didactylus " ; Times: 2
+	Query: "Riverside county charina bottae" ; Times: 1
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 1
+	Query: "locality:Dinkey county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Coryphaena hippurus mappable:1" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 3
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2002 year &lt;= 2002" ; Times: 1
+	Query: "specificepithet:huttoni genus:Vireo county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 2
+	Query: "Crotalus pyrrhus riverside" ; Times: 1
+	Query: "aegithalos concinnus india" ; Times: 1
+	Query: "genus:didelphis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;ventura&#34;" ; Times: 4
+	Query: "Uta AND Nicolas Island" ; Times: 1
+	Query: "tachycineta albiventer" ; Times: 1
+	Query: "Uta AND Nicolas Island AND SBMNH" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2006 year &lt;= 2006" ; Times: 1
+	Query: "Glareola ocularis" ; Times: 2
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 4
+	Query: "specificepithet:coerulea county:&#34;mono&#34;" ; Times: 1
+	Query: "anthus berthelotii vntype:specimen" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 2
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "elminia longicauda" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1981 year &lt;= 1982" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "genus:Conepatus institutioncode:SBMNH" ; Times: 3
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "genus:Sphaerodactylus locality:Cocos" ; Times: 1
+	Query: "genus:ambystoma county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 2
+	Query: "distance(location,geopoint(33.702160177102854,-122.29064919054508))&lt;100000" ; Times: 1
+	Query: "collectioncode:os" ; Times: 1
+	Query: "specificepithet:boylii county:&#34;Fresno&#34;" ; Times: 1
+	Query: "Batrachoseps relictus" ; Times: 1
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:denver stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "coleonyx elegans mexico" ; Times: 1
+	Query: "Santa Barbara san josé" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "specificepithet:hammondii class:reptilia county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1992 year &lt;= 1993" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2004 year &lt;= 2004" ; Times: 1
+	Query: "Riverside county charina" ; Times: 1
+	Query: "nothoprocta curvirostris" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "Callosciurus prevostii" ; Times: 1
+	Query: "bequia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:SBMNH" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;San luis obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Batrachoseps pacificus" ; Times: 2
+	Query: "Urocyon AND Santa Rosa Island" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1979 year &lt;= 1979" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 2
+	Query: "parus leuconotus" ; Times: 17
+	Query: "county:&#34;Washington&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 3
+	Query: "vultur" ; Times: 1
+	Query: "catalognumber:3292 institutioncode:SBMNH" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "ensifera ensifera aves south america" ; Times: 2
+	Query: "county:&#34;Fulton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "specificepithet:Elegans county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "locality:Tinemaha county:&#34;Inyo&#34;" ; Times: 1
+	Query: "county:&#34;Stephens&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 3
+	Query: "genus:pituophis class:reptilia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2005 year &lt;= 2005" ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 6
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1996 year &lt;= 2000" ; Times: 2
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Batrachoseps nigriventris" ; Times: 3
+	Query: "specificepithet:Lateralis genus:Masticophis county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "genus:pituophis class:reptilia county:&#34;fresno&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "28567" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1995 year &lt;= 1995" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 3
+	Query: "specificepithet:Atratus county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "Glareola lactea" ; Times: 3
+	Query: "enhydra lutris institutioncode:SBMNH" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus county:&#34;riverside&#34;" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1986 year &lt;= 1987" ; Times: 2
+	Query: "gato" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1991 year &lt;= 1992" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "genus:machetornis" ; Times: 1
+	Query: "callosciurus prevostii" ; Times: 6
+	Query: "specificepithet:reinwardtii" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1984 year &lt;= 1984 month &gt;= 7 month &lt;= 12" ; Times: 1
+	Query: "limnodromus griseus caurinus" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "specificepithet:Elegans genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "Fluvicola atripennis" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 2
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Amazona ochrocephala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "enhydra lutris nereis institutioncode:SBMNH" ; Times: 1
+	Query: "ensifera ensifera aves" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mono&#34;" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2007 year &lt;= 2010" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "enhydra san miguel institutioncode:SBMNH" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;uganda&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 940 download events in this period)
+Total number of records downloaded: 7987
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 40
+	Country: Sweden ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 5
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-30 ; Times: 4
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-04 ; Times: 4
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 5
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 9
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 5
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 5
+	Date: 2020-07-22 ; Times: 6
+	Date: 2020-07-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "order:Rodentia county:&#34;Franklin&#34; OR &#34;Clinton&#34; OR &#34;Hamilton&#34; OR &#34;St. Lawrence&#34; OR &#34;Warren&#34; OR &#34;Essex&#34; or stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "anthus berthelotii vntype:specimen" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;ventura&#34;" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:douglasii genus:phrynosoma" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "genus:Conepatus institutioncode:SBMNH" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "family:felidae" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "potos flavus" ; Times: 2
+	Query: "specificepithet:californicus genus:Larus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
